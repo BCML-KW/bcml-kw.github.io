@@ -1,3 +1,46 @@
+// Kwangwoon University Colors
+$kw-red: #8A1601;
+$kw-black: #000000;
+$kw-white: #FFFFFF;
+$kw-black-60: rgba(0, 0, 0, 0.6);
+$kw-black-80: rgba(0, 0, 0, 0.8);
+
+// Hero section text size
+.hero-lead {
+  font-size: 1.1rem !important;
+  line-height: 1.6;
+}
+
+// Responsive images - fit to container
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+// Hero section images - responsive
+.hero-media img,
+.hero-media picture img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+// Background images - responsive and centered
+.background-image {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+// Featured images - responsive
+.card img,
+.featured-image img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
@@ -7,3 +50,195 @@
 .cta-group {
   justify-content: center;
 }
+
+// Apply Kwangwoon University brand colors
+// Primary navigation bar
+.navbar {
+  border-bottom: 2px solid $kw-red;
+}
+
+// Navbar logo styling - high quality rendering
+.navbar-brand {
+  img {
+    max-height: 50px;
+    height: auto;
+    width: auto;
+    image-rendering: auto;
+    image-rendering: -webkit-optimize-quality;
+  }
+}
+
+// Links and primary actions
+a {
+  color: $kw-red;
+  
+  &:hover {
+    color: darken($kw-red, 10%);
+  }
+}
+
+// Buttons
+.btn-primary {
+  background-color: $kw-red !important;
+  border-color: $kw-red !important;
+  
+  &:hover {
+    background-color: darken($kw-red, 10%) !important;
+    border-color: darken($kw-red, 10%) !important;
+  }
+}
+
+// Section headers
+h1, h2, h3 {
+  color: $kw-black-80;
+}
+
+// Active navigation items
+.navbar .navbar-nav .nav-link.active {
+  color: $kw-red !important;
+  border-bottom: 2px solid $kw-red;
+}
+
+// Icons and accent elements
+.icon {
+  color: $kw-red;
+}
+
+// Featured content backgrounds
+.hero-overlay {
+  background-color: $kw-black-80;
+}
+
+// Card borders and highlights
+.card {
+  border-left: 3px solid $kw-red;
+}
+
+// Custom Footer Styles
+.site-footer {
+  background-color: transparent;
+  border-top: none;
+  padding: 0;
+  margin-top: 60px;
+  
+  .footer-border {
+    width: 100vw;
+    height: 2px;
+    background-color: $kw-red;
+    margin-left: calc(-50vw + 50%);
+    margin-bottom: 30px;
+  }
+  
+  .container {
+    padding-top: 0;
+    padding-bottom: 30px;
+  }
+  
+  .footer-content {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    
+    @media (max-width: 768px) {
+      gap: 20px;
+    }
+  }
+  
+  .footer-left {
+    flex-shrink: 0;
+    
+    .footer-logo {
+      height: 50px;
+      width: auto;
+      display: block;
+      
+      @media (max-width: 768px) {
+        height: 45px;
+      }
+    }
+  }
+  
+  .footer-right {
+    flex: 0 1 auto;
+    text-align: left;
+    
+    .footer-copyright {
+      font-size: 14px;
+      color: $kw-black-80;
+      margin: 0 0 8px 0;
+      line-height: 1.6;
+      text-align: left;
+    }
+    
+    .footer-address {
+      font-size: 13px;
+      color: $kw-black-60;
+      margin: 0 0 8px 0;
+      line-height: 1.6;
+      text-align: left;
+    }
+    
+    .footer-links {
+      font-size: 13px;
+      margin: 0;
+      
+      a {
+        color: $kw-red;
+        text-decoration: none;
+        
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+// Author profile page font size adjustments
+.article-container {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.author-card {
+  .biography {
+    font-size: 0.9rem;
+  }
+  
+  .interests {
+    font-size: 0.85rem;
+  }
+  
+  .education {
+    font-size: 0.85rem;
+  }
+}
+
+// Publication list font size
+.pub-list-item {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  
+  .article-title {
+    font-size: 0.95rem;
+  }
+  
+  .article-metadata {
+    font-size: 0.8rem;
+  }
+}
+
+// Section headings on author profile pages
+.article-container {
+  h2, h3 {
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  h4 {
+    font-size: 1.1rem;
+  }
+}
+

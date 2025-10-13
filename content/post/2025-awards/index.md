@@ -1,0 +1,22 @@
+---
+title: 2025 Awards & Achievements
+date: 2025-05-01
+profile: false
+show_related: false
+share: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: '2025 춘계학술대회 수상 현장'
+  focal_point: 'Smart'
+  preview_only: false
+---
+
+## 최우수논문상 수상
+
+**Minji Kim**, 논문 부문, 대한의용생체공학회 2025 춘계학술대회, 2025.05
+
+논문: "Wasserstein GAN-GEP 기반 Super-Resolution 모델을 활용한 손톱주름 모세혈관 영상 향상 기법"
+
+<!--more-->

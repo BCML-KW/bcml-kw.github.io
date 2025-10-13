@@ -1,0 +1,36 @@
+{{ $config_dir := "config/_default" }}
+{{ $show_search := site.Params.features.search.provider }}
+{{ $show_logo := site.Params.header.navbar.show_logo | default true }}
+
+<footer class="site-footer">
+  <div class="footer-border"></div>
+  <div class="container">
+    <div class="footer-content">
+      <!-- Left side: Kwangwoon University Logo -->
+      <div class="footer-left">
+        <a href="https://www.kw.ac.kr" target="_blank" rel="noopener">
+          <img src="{{ "/media/kwangwoon_univ.png" | relURL }}" alt="Kwangwoon University" class="footer-logo">
+        </a>
+      </div>
+      
+      <!-- Right side: Copyright and Address -->
+      <div class="footer-right">
+        {{ with site.Params.footer.copyright }}
+          <p class="footer-copyright">
+            {{- if not .notice -}}
+              © {{ now.Format "2006" }} {{ site.Title | markdownify}}
+            {{- else -}}
+              {{ replace (replace .notice "{year}" now.Year) "{license}" (site.Params.footer.copyright.license.text | default "CC BY-SA 4.0") | markdownify}}
+            {{- end -}}
+            <span style="margin: 0 8px;">|</span>
+            <a href="/terms/" style="color: #8A1601; text-decoration: none;">Terms & Privacy</a>
+          </p>
+        {{ end }}
+        
+        <p class="footer-address">
+          Rm 701, Saebit Bldg., 20, Gwangun-ro, Nowon-gu, Seoul 01890, South Korea
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>

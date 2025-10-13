@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+#neuralNetwork {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+</head>
+<body>
+<canvas id="neuralNetwork"></canvas>
+
+<script>
+const canvas = document.getElementById('neuralNetwork');
+const ctx = canvas.getContext('2d');
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+// Neurons (nodes)
+const neurons = [];
+const numNeurons = 50;
+
+class Neuron {
+  constructor() {
+    this.x = Math.random() * canvas.width;
+    this.y = Math.random() * canvas.height;
+    this.vx = (Math.random() - 0.5) * 2;
+    this.vy = (Math.random() - 0.5) * 2;
+    this.radius = 3;
+  }
+
+  update() {
+    this.x += this.vx;
+    this.y += this.vy;
+
+    if (this.x < 0 || this.x > canvas.width) this.vx *= -1;
+    if (this.y < 0 || this.y > canvas.height) this.vy *= -1;
+  }
+
+  draw() {
+    ctx.beginPath();
+    ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+    ctx.fill();
+  }
+}
+
+// Create neurons
+for (let i = 0; i < numNeurons; i++) {
+  neurons.push(new Neuron());
+}
+
+function connectNeurons() {
+  for (let i = 0; i < neurons.length; i++) {
+    for (let j = i + 1; j < neurons.length; j++) {
+      const dx = neurons[i].x - neurons[j].x;
+      const dy = neurons[i].y - neurons[j].y;
+      const distance = Math.sqrt(dx * dx + dy * dy);
+
+      if (distance < 150) {
+        ctx.beginPath();
+        ctx.moveTo(neurons[i].x, neurons[i].y);
+        ctx.lineTo(neurons[j].x, neurons[j].y);
+        ctx.strokeStyle = `rgba(255, 255, 255, ${1 - distance / 150})`;
+        ctx.lineWidth = 1;
+        ctx.stroke();
+      }
+    }
+  }
+}
+
+function animate() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  connectNeurons();
+
+  neurons.forEach(neuron => {
+    neuron.update();
+    neuron.draw();
+  });
+
+  requestAnimationFrame(animate);
+}
+
+animate();
+
+window.addEventListener('resize', () => {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+});
+</script>
+</body>
+</html>

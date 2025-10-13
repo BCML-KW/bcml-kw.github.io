@@ -5,65 +5,52 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
-      title: Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      title: Apply BCML
+      subtitle: 광운대학교 BCML 석/박사 지원
+      text: |
+        ### How to apply
+        
+        **parkcheolsoo@kw.ac.kr** 로 간단한 자기 소개와 함께 이력서를 먼저 제출해주세요.
+        
+        ### 자격 조건
+        
+        컴퓨터/전자/전기/로봇 관련 전공 및 유사전공
     design:
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Counseling with Graduate Student
+      subtitle: 광운대학교 BCML 석/박사 지원 상담
+      text: |        
+      
+        ### 상담 내용
+        
+        - 대학원 진학 후 생활, 연구주제, 진로 상담, 분위기 등
+        - 진학관련 필요 서류 및 요건, 학부연구생 지원, 장학금 등
+        
+        아래 상담 신청 링크에서 상담을 위해 필요한 내용을 기입해주세요. 유사 학과, 유사 연구 프로젝트를 진행한 조교가 상담을 진행해 드립니다.
+        
+        **상담 신청 링크 (국문):** [https://forms.gle/naep12jR6aw1mnTv8](https://forms.gle/naep12jR6aw1mnTv8)
+        
+        **Counseling Application Link (EN):** [https://forms.gle/ox6g7hYcjxmQusiK9](https://forms.gle/ox6g7hYcjxmQusiK9)
+    design:
+      columns: '2'
+
+  - block: contact
+    content:
+      address:
+        street: Rm 701, Saebit Bldg., 20, Gwangun-ro, Nowon-gu
+        city: Seoul
+        postcode: '01890'
+        country: South Korea
+        country_code: KR
+      coordinates:
+        latitude: '37.61978874012872'
+        longitude: '127.06089722031389'
     design:
       columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
 ---
