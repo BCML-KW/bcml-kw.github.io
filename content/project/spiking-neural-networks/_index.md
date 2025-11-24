@@ -27,8 +27,3 @@ Spiking Neural Networks (SNNs) communicate through 1-bit spikes, mirroring the e
 ### Lab Focus
 
 Our lab analyzes biosignals such as ECG via SNNs and refines network topologies using prior neuroscience studies. The ultimate goal is to build neuromorphic systems that learn, adapt, and explain their decisions without heavy compute.
-
-## Featured Projects
-
-- [Neuromorphic Control of Robotic Manipulators](/project/reinforcement-learning/neuromorphic-robotics/)
-- [Bio-signal SNN Analytics](/project/spiking-neural-networks/biosignal-snn-analytics/)

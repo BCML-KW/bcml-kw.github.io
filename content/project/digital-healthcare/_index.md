@@ -33,11 +33,3 @@ We engineer low-power wearable systems that gather high-fidelity biosignals, tra
 ### Internet of Things
 
 Our IoT research orchestrates networks of healthcare devices, ensuring reliable data exchange between patients and caregivers. We optimize network-based control strategies so the next-generation healthcare ecosystem remains responsive and secure.
-
-## Featured Projects
-
-- [Nailfold Capillaroscopy Platform](/project/digital-healthcare/nailfold-capillaroscopy/)
-- [Privacy-aware Patient Monitoring](/project/digital-healthcare/privacy-patient-monitoring/)
-- [DA-Capnet: Dual Attention for Nailfold Capillary Segmentation](/project/digital-healthcare/da-capnet/)
-- [Medical Image & Video Processing](/project/digital-healthcare/medical-image-video-processing/)
-- [Arrhythmia Classification with Deep Learning](/project/digital-healthcare/arrhythmia-classification/)

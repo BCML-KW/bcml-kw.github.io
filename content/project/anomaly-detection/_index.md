@@ -23,7 +23,3 @@ Anomaly Detection links together our historical efforts in data mining, healthca
 - Multimodal anomaly and novelty detection for smart hospitals and edge devices
 - Signal-quality estimation for ECG/PPG wearables
 - Digital twin simulations that generate rare-but-critical failure cases
-
-## Featured Projects
-
-- [Multimodal Anomaly Detection Platform](/project/anomaly-detection/multimodal-anomaly-detection/)

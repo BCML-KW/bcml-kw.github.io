@@ -22,9 +22,3 @@ We translate neuroscience principles into computational models that inform AI, d
 - Remote experimentation platforms for neuroscience education
 - Cognitive state tracking through multimodal biosignals
 - Joint modeling of neural and physiological signals for disease monitoring
-
-## Featured Projects
-
-- [Remote Cognitive Assessment Suite](/project/computational-neuroscience/remote-cognitive-assessment/)
-- [Drowsiness Detection via EEG/ECG](/project/computational-neuroscience/drowsiness-detection/)
-- [Motor Cortex Activation Decoding](/project/computational-neuroscience/motor-cortex-activation/)
