@@ -8,4 +8,9 @@ view: card
 banner:
   caption: ''
   image: ''
+cascade:
+  show_author: false
+  profile: false
+  share: false
+  authors: []
 ---
