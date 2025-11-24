@@ -20,12 +20,12 @@ education:
   - course: PhD (Current)
     institution: Tokyo University of Agriculture and Technology, Japan
     year: null
-  - course: MSc in Software Engineering
+  - course: MS in Software Engineering
     institution: Kwangwoon University
     year: 2021
-  - course: BS
-    institution: Kwangwoon University
-    year: null
+  - course: BS in Cr Mechatronics
+    institution: Sahmyook University
+    year: 2019
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,7 +34,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NWbfyKYAAAAJ
 email: seungwoohan0108@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

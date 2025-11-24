@@ -16,7 +16,7 @@ tags:
   - Deep Learning
 
 categories:
-  - Research Projects
+  - Machine Learning / Deep Learning
 
 image:
   caption: ''

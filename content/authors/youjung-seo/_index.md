@@ -28,7 +28,7 @@ social:
   icon_pack: fas
   link: mailto:youjungseo0317@gmail.com
 email: youjungseo0317@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

@@ -37,7 +37,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3fSHe4oAAAAJ
 email: unangsunarya2040@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

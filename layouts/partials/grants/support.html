@@ -1,0 +1,82 @@
+{{- $grantsPage := site.GetPage "/grant" -}}
+{{- if not $grantsPage -}}
+  {{- return -}}
+{{- end -}}
+{{- $pages := where $grantsPage.RegularPages ".Params.draft" "ne" true -}}
+{{- if not (gt (len $pages) 0) -}}
+  {{- return -}}
+{{- end -}}
+{{- $variant := .variant | default "full" -}}
+{{- $title := .title | default (i18n "grant_support" | default "Grant Support") -}}
+{{- $description := .description -}}
+{{- $pages = sort $pages "Params.weight" "asc" -}}
+
+<section class="grant-support grant-support--{{ $variant }}">
+  {{- if $title }}
+  <div class="grant-support__heading">{{ $title }}</div>
+  {{- end }}
+  {{- with $description }}
+  <p class="grant-support__description">{{ . | markdownify }}</p>
+  {{- end }}
+
+  {{- if eq $variant "compact" -}}
+    <div class="grant-support__logos">
+      {{- range $pages -}}
+        {{- $logo := .Resources.GetMatch (default "logo*" .Params.logo) -}}
+        {{- $logoURL := "" -}}
+        {{- if $logo -}}
+          {{- $logoURL = $logo.RelPermalink -}}
+        {{- else if .Params.logo_path -}}
+          {{- $logoURL = (.Params.logo_path | relURL) -}}
+        {{- end -}}
+        {{- if $logoURL -}}
+          {{- $target := .Params.link | default .Params.agency_url -}}
+          <div class="grant-support__logo">
+            {{- if $target }}<a href="{{ $target }}" target="_blank" rel="noopener">{{ end -}}
+              <img src="{{ $logoURL }}" alt="{{ .Title }} logo" loading="lazy" decoding="async">
+            {{- if $target }}</a>{{ end -}}
+          </div>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  {{- else -}}
+    <div class="grant-support__list">
+      {{- range $pages -}}
+        {{- $logo := .Resources.GetMatch (default "logo*" .Params.logo) -}}
+        {{- $logoURL := "" -}}
+        {{- if $logo -}}
+          {{- $logoURL = $logo.RelPermalink -}}
+        {{- else if .Params.logo_path -}}
+          {{- $logoURL = (.Params.logo_path | relURL) -}}
+        {{- end -}}
+        {{- $logo_alt := printf "%s logo" (.Params.agency | default .Title) -}}
+        {{- $target := .Params.link | default .Params.agency_url -}}
+        <article class="grant-highlight">
+          <div class="grant-highlight__media">
+            {{- if $logoURL }}
+              {{- if $target }}<a href="{{ $target }}" target="_blank" rel="noopener">{{ end -}}
+                <img src="{{ $logoURL }}" alt="{{ $logo_alt }}" loading="lazy" decoding="async">
+              {{- if $target }}</a>{{ end -}}
+            {{- else }}
+              <div class="grant-highlight__placeholder" aria-hidden="true"></div>
+            {{- end -}}
+          </div>
+          <div class="grant-highlight__body">
+            <p class="grant-highlight__label">{{ .Params.agency | default .Params.funder | default .Title }}</p>
+            <h3>{{ .Title }}</h3>
+            {{- with .Params.summary }}
+              <p>{{ . | markdownify }}</p>
+            {{- end }}
+            <div class="grant-highlight__meta">
+              {{- with .Params.amount }}<span>{{ . }}</span>{{- end }}
+              {{- with .Params.year }}<span>{{ . }}</span>{{- end }}
+            </div>
+            {{- with $target }}
+              <a class="btn btn-outline-primary btn-sm" href="{{ . }}" target="_blank" rel="noopener">Learn more</a>
+            {{- end }}
+          </div>
+        </article>
+      {{- end -}}
+    </div>
+  {{- end -}}
+</section>

@@ -1,0 +1,22 @@
+<svg width="360" height="220" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract illustration of multimodal machine learning</title>
+  <desc id="desc">Stylized signal traces and network nodes representing biosignals, human activity, and embedded inference.</desc>
+  <rect width="360" height="220" rx="20" fill="#f7f7fb" />
+  <rect x="24" y="32" width="96" height="72" rx="12" fill="#fff" stroke="#cfd5ff" stroke-width="2" />
+  <path d="M36 90 Q54 70 60 76 T84 68 T108 80" fill="none" stroke="#7a8cff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="72" cy="60" r="6" fill="#7a8cff" opacity="0.35" />
+  <circle cx="102" cy="90" r="5" fill="#ff9a6c" opacity="0.45" />
+  <rect x="140" y="32" width="196" height="72" rx="12" fill="#fff" stroke="#fde0b2" stroke-width="2" />
+  <path d="M154 92 L184 48 L214 76 L244 44 L274 88 L304 58 L326 80" fill="none" stroke="#f9a826" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="48" y="128" width="264" height="60" rx="16" fill="#fff" stroke="#d7e3ff" stroke-width="2" />
+  <circle cx="96" cy="158" r="22" fill="#7a8cff" opacity="0.2" />
+  <circle cx="96" cy="158" r="10" fill="#7a8cff" opacity="0.55" />
+  <circle cx="156" cy="158" r="6" fill="#7a8cff" />
+  <circle cx="204" cy="158" r="6" fill="#ff9a6c" />
+  <circle cx="252" cy="158" r="6" fill="#6cdab8" />
+  <path d="M156 158 L204 158 L252 158" stroke="#7a8cff" stroke-width="2" stroke-dasharray="6 6" stroke-linecap="round" />
+  <path d="M96 136 V120" stroke="#7a8cff" stroke-width="2" stroke-linecap="round" />
+  <path d="M96 180 V196" stroke="#7a8cff" stroke-width="2" stroke-linecap="round" />
+  <path d="M96 196 H300" stroke="#e3e6ff" stroke-width="2" stroke-linecap="round" />
+  <circle cx="300" cy="196" r="12" fill="#f25f5c" opacity="0.85" />
+</svg>

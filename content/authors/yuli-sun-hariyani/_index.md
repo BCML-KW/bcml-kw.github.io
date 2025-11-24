@@ -34,7 +34,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Dc6wn9AAAAAJ
 email: yulisun@tass.telkomuniversity.ac.id
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

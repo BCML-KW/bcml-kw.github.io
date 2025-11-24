@@ -3,6 +3,14 @@
 {{ $show_logo := site.Params.header.navbar.show_logo | default true }}
 
 <footer class="site-footer">
+  {{ $grantParams := site.Params.grants }}
+  {{ $footerGrantTitle := "" }}
+  {{ $footerGrantDescription := "" }}
+  {{ if $grantParams }}
+    {{ $footerGrantTitle = $grantParams.footer_title | default "" }}
+    {{ $footerGrantDescription = $grantParams.footer_description | default "" }}
+  {{ end }}
+  {{ partial "grants/support.html" (dict "variant" "compact" "title" $footerGrantTitle "description" $footerGrantDescription) }}
   <div class="footer-border"></div>
   <div class="container">
     <div class="footer-content">
@@ -24,6 +32,8 @@
             {{- end -}}
             <span style="margin: 0 8px;">|</span>
             <a href="/terms/" style="color: #8A1601; text-decoration: none;">Terms & Privacy</a>
+            <span style="margin: 0 8px;">|</span>
+            <a href="https://github.com/BCML-KW" target="_blank" rel="noopener" style="color: #8A1601; text-decoration: none;">GitHub</a>
           </p>
         {{ end }}
         

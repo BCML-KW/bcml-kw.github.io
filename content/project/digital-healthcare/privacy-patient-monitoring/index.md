@@ -14,7 +14,7 @@ tags:
   - DVS Sensors
 
 categories:
-  - Research Projects
+  - Digital Healthcare
 
 image:
   caption: ''

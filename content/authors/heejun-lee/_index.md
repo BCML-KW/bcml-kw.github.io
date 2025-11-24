@@ -30,7 +30,7 @@ social:
   icon_pack: fas
   link: mailto:lhjun20@gmail.com
 email: lhjun20@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

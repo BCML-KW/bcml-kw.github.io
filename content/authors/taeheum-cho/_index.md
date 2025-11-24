@@ -27,7 +27,7 @@ social:
   icon_pack: fas
   link: mailto:taeheumcho89@gmail.com
 email: taeheumcho89@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

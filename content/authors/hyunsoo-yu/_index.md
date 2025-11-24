@@ -32,7 +32,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LvQBTPoAAAAJ
 email: hyunsoo940324@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

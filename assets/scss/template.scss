@@ -242,3 +242,180 @@ h1, h2, h3 {
   }
 }
 
+// Research area highlight block (image + text in one row)
+.research-area-highlight {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem;
+  border: 1px solid rgba(138, 22, 1, 0.12);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 18px 45px rgba(28, 39, 54, 0.08);
+  margin-bottom: 2.5rem;
+  
+  &__media {
+    flex: 0 1 320px;
+    max-width: 360px;
+  }
+  
+  &__body {
+    flex: 1 1 300px;
+  }
+  
+  img {
+    border-radius: 14px;
+    width: 100%;
+    height: auto;
+  }
+  
+  h2, h3 {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+  }
+  
+  ul {
+    margin-bottom: 0;
+    padding-left: 1.2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .research-area-highlight {
+    padding: 1.5rem;
+    gap: 1.5rem;
+    &__media {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+  }
+}
+
+// Grant showcase styles (shared by Research Areas + Footer)
+.grant-support {
+  margin: 3rem 0;
+
+  &__heading {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+
+  &__description {
+    max-width: 720px;
+    color: $kw-black-60;
+    margin-bottom: 1.5rem;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  &__logos {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(90px, 1fr));
+    gap: 1.25rem;
+    align-items: center;
+    justify-items: center;
+    padding: 1.5rem;
+    border: 1px solid rgba(138, 22, 1, 0.1);
+    border-radius: 16px;
+    background: rgba(138, 22, 1, 0.03);
+    margin-bottom: 2rem;
+  }
+
+  &__logo img {
+    max-height: 56px;
+    width: auto;
+    object-fit: contain;
+    filter: grayscale(15%);
+  }
+
+  &--compact {
+    margin: 1.5rem 0;
+  }
+}
+
+.grant-highlight {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid rgba(138, 22, 1, 0.12);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 12px 32px rgba(28, 39, 54, 0.06);
+
+  &__media {
+    flex: 0 0 140px;
+  }
+
+  &__media img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  &__placeholder {
+    width: 120px;
+    height: 80px;
+    border-radius: 12px;
+    background: rgba(138, 22, 1, 0.08);
+  }
+
+  &__body {
+    flex: 1;
+  }
+
+  &__label {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    color: $kw-red;
+    margin-bottom: 0.3rem;
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    font-size: 0.9rem;
+    color: $kw-black-60;
+    margin-bottom: 0.75rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .grant-highlight {
+    flex-direction: column;
+    text-align: center;
+
+    &__media {
+      width: 60%;
+    }
+
+    &__body {
+      width: 100%;
+    }
+  }
+
+  .grant-support__logos {
+    grid-template-columns: repeat(3, minmax(90px, 1fr));
+  }
+}
+
+@media (max-width: 992px) and (min-width: 769px) {
+  .grant-support__logos {
+    grid-template-columns: repeat(5, minmax(90px, 1fr));
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 993px) {
+  .grant-support__logos {
+    grid-template-columns: repeat(6, minmax(90px, 1fr));
+  }
+}
+

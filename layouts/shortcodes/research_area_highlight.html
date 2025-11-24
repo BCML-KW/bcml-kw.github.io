@@ -1,0 +1,35 @@
+{{- $sectionPath := .Get "section" | default "project" -}}
+{{- $title := .Get "title" | default "Research Area" -}}
+{{- $fallback := .Get "fallback" | default "/media/ml-overview.svg" -}}
+{{- $sectionPage := site.GetPage (printf "/%s" $sectionPath) -}}
+{{- $pages := slice -}}
+{{- if $sectionPage -}}
+  {{- $pages = $sectionPage.RegularPages -}}
+{{- end -}}
+{{- $latestImage := false -}}
+{{- $latestPage := false -}}
+{{- range (sort $pages "Date" "desc") -}}
+  {{- if not $latestImage -}}
+    {{- $img := .Resources.GetMatch "featured*" -}}
+    {{- if not $img -}}
+      {{- $img = .Resources.GetMatch "*.*" -}}
+    {{- end -}}
+    {{- if $img -}}
+      {{- $latestImage = $img -}}
+      {{- $latestPage = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<div class="research-area-highlight">
+  <div class="research-area-highlight__media">
+    {{- if $latestImage -}}
+      <img src="{{ $latestImage.RelPermalink }}" alt="{{ with $latestPage }}{{ .Title }}{{ else }}{{ $title }}{{ end }} visual" loading="lazy" decoding="async">
+    {{- else -}}
+      <img src="{{ $fallback }}" alt="{{ $title }} visual" loading="lazy" decoding="async">
+    {{- end -}}
+  </div>
+  <div class="research-area-highlight__body">
+    <h2>{{ $title }}</h2>
+    {{- .Inner -}}
+  </div>
+</div>

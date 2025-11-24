@@ -36,7 +36,7 @@ education:
       year: 
     - course: BS in Computer Engineering
       institution: Kwangwoon University
-      year: 
+      year: true
 
 # Social/Academic Networking
 social:

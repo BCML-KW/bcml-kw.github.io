@@ -28,7 +28,7 @@ social:
   icon_pack: fas
   link: mailto:swj20000@gmail.com
 email: swj20000@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

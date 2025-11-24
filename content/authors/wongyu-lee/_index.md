@@ -20,7 +20,7 @@ education:
   - course: MS in Computer Engineering
     institution: Kwangwoon University
     year: null
-  - course: BS in Mathematics (Minor in Computer Science and Physics)
+  - course: BS in Mathematics, Minor in Computer Science and Physics
     institution: University of Minnesota-Twin Cities, USA
     year: null
 social:
@@ -28,7 +28,7 @@ social:
   icon_pack: fas
   link: mailto:leew1729@gmail.com
 email: leew1729@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

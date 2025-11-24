@@ -31,7 +31,7 @@ education:
     - course: MS in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
-    - course: BS in Computer Information Engineering
+    - course: BS in Computer Engineering
       institution: Kwangwoon University
       year: 
 
@@ -45,7 +45,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

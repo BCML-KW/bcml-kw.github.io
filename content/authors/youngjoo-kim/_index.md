@@ -34,7 +34,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=CaaCrhMAAAAJ
 email: lyoungjookiml@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---

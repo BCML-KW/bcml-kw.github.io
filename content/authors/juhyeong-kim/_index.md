@@ -28,7 +28,7 @@ social:
   icon_pack: fas
   link: mailto:kjoohyu@gmail.com
 email: kjoohyu@gmail.com
-highlight_name: false
+highlight_name: true
 user_groups:
 - Alumni
 ---
