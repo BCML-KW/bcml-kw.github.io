@@ -4,7 +4,7 @@ title: Hybrid Neural Network Model for Anomaly Detection in Implantable Devices 
 authors:
 - dongwook-kwon
 - minji-kim
-- Yuongshin Kang
+- youngshin-kang
 - jihong-lee
 - cheolsoo-park
 date: '2024-06-11T00:00:00Z'

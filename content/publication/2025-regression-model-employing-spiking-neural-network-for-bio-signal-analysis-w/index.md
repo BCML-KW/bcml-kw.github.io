@@ -1,10 +1,9 @@
 ---
-title: Regression Model Employing Spiking Neural Network for Bio-Signal Analysis With
-  Hardware Integration
+title: Regression Model Employing Spiking Neural Network for Bio-Signal Analysis With Hardware Integration
 authors:
 - choongseop-lee
 - geunbo-yang
-- Jaewoo Beak
+- jaewoo-beak
 - yuntae-park
 - Mingyu Cheon
 - Jongkil Park
