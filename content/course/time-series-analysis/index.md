@@ -11,7 +11,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lecture Slides
-    url: '#'
+    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/time-series-analysis'
 #  - icon: file-code
 #    icon_pack: fas
 #    name: Code Examples
@@ -25,25 +25,16 @@ categories:
 
 ## Course Overview
 
-시계열분석(Time-Series Analysis, 0000-3-9931-01)은 데이터 분석을 위한 인공지능 및 머신러닝 분야 중, 금융 및 생체/바이오, 각종 IoT 센서 시스템의 시계열 데이터를 분석하는 알고리즘에 대해 배운다. 특히 시계열 데이터의 패턴 및 추이 분석을 통한 미래 예측에 대한 방법론에 대해 다루며, 최신 급속도로 발전하고 있는 딥러닝 구조 기반의 Recurrent Neural Network 알고리즘을 통한 시계열 데이터 분석 방법에 대해 배울 예정이다. 
-
-## Logistics
-
-- **Semester / Credits:** 2021학년도 2학기, 3학점
-- **Instructor:** 박철수 교수 (parkcheolsoo@kw.ac.kr)
-- **TA:** 이충섭 (cndtjq97@gmail.com)
-- **Language:** 영어 50% 비중 (슬라이드/설명 혼용)
-- **Mode:** TBL/PBL/세미나/소규모 활동 포함, 필요 시 대면·실시간 화상·사전 녹화 혼합 운영
-- **Disability Support:** 장애학생지원실 등록 시 좌석 지정, 자료, 평가 조정 지원
+시계열분석(Time-Series Analysis)은 데이터 분석을 위한 인공지능 및 머신러닝 분야 중, 금융 및 생체/바이오, 각종 IoT 센서 시스템의 시계열 데이터를 분석하는 알고리즘에 대해 배운다. 특히 시계열 데이터의 패턴 및 추이 분석을 통한 미래 예측에 대한 방법론에 대해 다루며, 최신 급속도로 발전하고 있는 딥러닝 구조 기반의 Recurrent Neural Network 알고리즘을 통한 시계열 데이터 분석 방법에 대해 배운다. 
 
 ## Weekly Schedule
 
 1. 시계열 데이터 분석 개론
 2. 시계열 분석을 위한 기초 통계
-3. 시계열 상관·검정 *(9월 20일 온라인 녹화강의)*
+3. 시계열 상관·검정
 4. 선형 회귀 복습 및 적용
-5. 이동 평균 스무딩 *(10월 4일 온라인 녹화강의)*
-6. 지수 스무딩 *(10월 11일 온라인 녹화강의)*
+5. 이동 평균 스무딩
+6. 지수 스무딩
 7. 회귀 기반 스무딩
 8. 중간고사
 9. MA & ARMA 모델

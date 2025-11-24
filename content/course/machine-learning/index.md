@@ -11,7 +11,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lecture Slides
-    url: '#'
+    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/machine-learning'
 #  - icon: file-code
 #    icon_pack: fas
 #    name: Code Examples
@@ -25,16 +25,7 @@ categories:
 
 ## Course Overview
 
-머신러닝(Machine Learning, I020-4-8483-01)은  머신러닝 및 통계학적 패턴인식에 관한 지식을 폭 넓게 다룬다. 주요 내용으로 stochastic/discriminative learning, parametric/non-parametric learning, neural networks, 딥러닝을 포함한 지도학습(supervised learning), 클러스터링, dimensionality reduction, kernel methods를 포함하는 비지도학습 등을 포함한다. 또한, 영상처리, 음성신호처리, 바이오 신호처리, 데이터 마이닝 등의 머신러닝의 주요 응용에 대하여 살펴본다. 
-
-## Logistics
-
-- **Semester / Credits:** 2025학년도 1학기, 3학점
-- **Instructor:** 박철수 교수 (parkcheolsoo@kw.ac.kr)
-- **TA:** 이현태 (gusxodl98@gmail.com)
-- **Language:** 영어 50% 비중 (슬라이드·과제 영문 병행)
-- **Mode:** TBL/PBL/세미나/소규모 협업 포함, 프로젝트 중심
-- **Disability Support:** 장애학생지원실 등록 학생 요청 시 좌석, 자료, 평가 조정 지원
+머신러닝(Machine Learning)은  머신러닝 및 통계학적 패턴인식에 관한 지식을 폭 넓게 다룬다. 주요 내용으로 stochastic/discriminative learning, parametric/non-parametric learning, neural networks, 딥러닝을 포함한 지도학습(supervised learning), 클러스터링, dimensionality reduction, kernel methods를 포함하는 비지도학습 등을 포함한다. 또한, 영상처리, 음성신호처리, 바이오 신호처리, 데이터 마이닝 등의 머신러닝의 주요 응용에 대하여 살펴본다. 
 
 ## Prerequisites & Follow-up
 
@@ -51,7 +42,7 @@ categories:
 6. 비지도 학습 (K-means, K-NN)
 7. 선형 회귀 (해석·정규화)
 8. 중간고사
-9. 로지스틱/소프트맥스 회귀 (1) *(온라인 대체 수업)*
+9. 로지스틱/소프트맥스 회귀 (1)
 10. 로지스틱/소프트맥스 회귀 (2)
 11. 퍼셉트론과 결정 경계
 12. 신경망 및 역전파

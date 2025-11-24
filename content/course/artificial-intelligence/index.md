@@ -11,7 +11,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lecture Slides
-    url: '#'
+    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/artificial-intelligence'
 #  - icon: file-code
 #    icon_pack: fas
 #    name: Code Examples
@@ -25,16 +25,7 @@ categories:
 
 ## Course Overview
 
-인공지능(Artificial Intelligence, I020-3-1196-02)은 4차산업혁명 시대의 기본이 되는 인공지능에 대한 기초 지식을 제공하는 수업이다. 인공지능의 역사를 통해 현재까지의 발전 흐름에 대해 파악을 하며, 전통적인 인공지능 알고리즘과 최신 딥러닝 알고리즘이 어떻게 데이터로부터 정보를 추출하는지에 대한 원리를 배운다. 더 나아가 트리 및 확률 기반 인공지능 알고리즘을 배우고, 강화학습을 기반으로 스스로 발전해가는 인공지능 알고리즘의 원리에 대해 파악한다. 
-
-## Logistics
-
-- **Semester / Credits:** 2025학년도 2학기, 3학점
-- **Instructor:** 박철수 교수 (parkcheolsoo@kw.ac.kr)
-- **TA:** 김민지 (mjkim0819@naver.com)
-- **Foreign Language:** 영어 강의 50% 비중 (주요 슬라이드/과제 영문)
-- **Mode:** TBL·PBL·세미나 요소 포함, 온·오프라인 혼합 가능(공지 예정)
-- **Disability Support:** 장애학생지원실 등록 학생 요청 시 좌석 지정 등 지원
+인공지능(Artificial Intelligence)은 4차산업혁명 시대의 기본이 되는 인공지능에 대한 기초 지식을 제공하는 수업이다. 인공지능의 역사를 통해 현재까지의 발전 흐름에 대해 파악을 하며, 전통적인 인공지능 알고리즘과 최신 딥러닝 알고리즘이 어떻게 데이터로부터 정보를 추출하는지에 대한 원리를 배운다. 더 나아가 트리 및 확률 기반 인공지능 알고리즘을 배우고, 강화학습을 기반으로 스스로 발전해가는 인공지능 알고리즘의 원리에 대해 파악한다. 
 
 ## Learning Goals & Methods
 
@@ -59,7 +50,7 @@ categories:
 3. 딥러닝 기반 특성 추출(2)
 4. 예측 모델(1): 전통 ARMA 모델
 5. 예측 모델(1)-2: ARMA 심화 및 응용
-6. 예측 모델(2): 딥러닝 기반 시계열/예측 (보강: 온라인)
+6. 예측 모델(2): 딥러닝 기반 시계열/예측
 7. 강화학습(1): 기본 개념과 MDP
 8. 중간고사
 9. 강화학습(2): 정책/가치 기반 방법

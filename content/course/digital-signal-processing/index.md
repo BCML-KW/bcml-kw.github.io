@@ -11,7 +11,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lecture Slides
-    url: '#'
+    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/digital-signal-processing'
 #  - icon: file-code
 #    icon_pack: fas
 #    name: Code Examples
@@ -25,23 +25,7 @@ categories:
 
 ## Course Overview
 
-디지털신호처리(Digital Signal Processing, I020-3-0458-01)는 푸리에 변환과 Z변환의 성질과 기본정리, 역변환을 학습한다. 1장에서 디지털 신호와 시스템에 대한 기본 개념을 설명한다. 2장에서는 디지털 시스템의 해석 방법, 3장은 시스템 설계시 필요한 수학적 툴 Z변환을 다루고 있다. 4장 5장에서는 신호의 주파수 해석과 합성에 대한 내용을 중점적으로 다룰 것이다. 더 나아가 시계열 데이터 분석을 위한 Time-Frequency 분석 방법에 대해 배운다.
-
-## Logistics
-
-- **Semester / Credits:** 2025학년도 2학기, 3학점
-- **Instructor:** 박철수 교수 (parkcheolsoo@kw.ac.kr)
-- **Teaching Assistant:** 김현중 (a9016038@gmail.com)
-- **Course Type:** 전선, TBL/PBL/세미나 요소 포함, MATLAB 활용
-- **Disability Support:** 장애학생지원실 등록 학생 요청 시 지정 좌석 등 학습 편의 제공
-
-## Learning Goals & Methods
-
-1. 푸리에/라플라스/Z 변환 성질을 활용해 이산시간 시스템을 해석한다.
-2. 정계수 차분 방정식을 통해 시스템을 표현하고 구조를 파악한다.
-3. IIR/FIR 필터 설계 개념과 구현 절차를 이해한다.
-4. Time-Frequency 분석을 시계열 데이터에 적용한다.
-5. MATLAB 기반 필터 설계·분석 도구를 활용하고 결과를 발표한다.
+디지털신호처리(Digital Signal Processing)는 푸리에 변환과 Z변환의 성질과 기본정리, 역변환을 학습한다. 1장에서 디지털 신호와 시스템에 대한 기본 개념을 설명한다. 2장에서는 디지털 시스템의 해석 방법, 3장은 시스템 설계시 필요한 수학적 툴 Z변환을 다루고 있다. 4장 5장에서는 신호의 주파수 해석과 합성에 대한 내용을 중점적으로 다룰 것이다. 더 나아가 시계열 데이터 분석을 위한 Time-Frequency 분석 방법에 대해 배운다.
 
 ## Recommended Background
 

@@ -11,7 +11,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lecture Slides
-    url: '#'
+    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/discrete-mathematics'
 #  - icon: file-code
 #    icon_pack: fas
 #    name: Code Examples
@@ -25,20 +25,12 @@ categories:
 
 ## Course Overview
 
-이산수학(Discrete Mathematics, H020-2-1186-01)은 컴퓨터 공학에서 사용되어지는 다양한 수학 이론들의 기초를 다지는 과목이다. 논리와 명제를 비롯하여 함수, 그래프, 트리, 확률, 행렬 등에 대한 기초 개념을 소개한다.
-
-## Logistics
-
-- **Semester / Credits:** 2022학년도 2학기, 3학점
-- **Instructor:** 박철수 교수 (parkcheolsoo@kw.ac.kr)
-- **TA:** 원지환 (wjh5597486@gmail.com)
-- **Mode:** TBL/PBL/세미나/소규모 수업 요소 포함, 필요 시 온라인·혼합 운영
-- **Disability Support:** 장애학생지원실 등록 시 좌석 지정, 자료 제공 등 맞춤 지원
+이산수학(Discrete Mathematics)은 컴퓨터 공학에서 사용되어지는 다양한 수학 이론들의 기초를 다지는 과목이다. 논리와 명제를 비롯하여 함수, 그래프, 트리, 확률, 행렬 등에 대한 기초 개념을 소개한다.
 
 ## Weekly Schedule
 
 1. 이산수학 개요 및 응용 사례
-2. 논리와 명제 *(온라인 보강)*
+2. 논리와 명제
 3. 집합론과 디지털 수 체계
 4. 증명법 (직접/간접/귀납)
 5. 관계 (1)

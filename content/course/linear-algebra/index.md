@@ -11,7 +11,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lecture Slides
-    url: '#'
+    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/linear-algebra'
 #  - icon: file-code
 #    icon_pack: fas
 #    name: Code Examples
@@ -25,18 +25,7 @@ categories:
 
 ## Course Overview
 
-선형대수학(Linear Algebra, 0000-3-0819-04)은 행렬, 선형연립방정식, 벡터, 벡터공간, 선형사상, 고유값, 고유벡터, 행렬의 대각화 등의 선형 대수학 기초개념에 대하여 학습하여 추후 이를 활용한 전공과목에대한 선지식을 배양한다.
-
-## Logistics
-
-- **Semester / Credits:** 2025학년도 1학기, 3학점
-- **Instructor:** 박철수 교수 (parkcheolsoo@kw.ac.kr)
-- **TA:** 박윤태 (parkjow15@naver.com)
-- **Language:** 영어 50% 비중 (슬라이드·설명 혼합)
-- **Mode:** 100% 대면 수업, 필요 시 온라인 보강; TBL/PBL/세미나 요소 포함
-- **Disability Support:** 장애학생지원실 등록 학생 요청 시 좌석, 자료 등 학습 지원 제공
-
-강의 노트, 예제 풀이, MATLAB/Python 스크립트는 수업 중 또는 KLAS에 게시됩니다.
+선형대수학(Linear Algebra)은 행렬, 선형연립방정식, 벡터, 벡터공간, 선형사상, 고유값, 고유벡터, 행렬의 대각화 등의 선형 대수학 기초개념에 대하여 학습하여 추후 이를 활용한 전공과목에대한 선지식을 배양한다.
 
 ## Weekly Schedule
 
@@ -49,9 +38,9 @@ categories:
 7. **Orthogonality (2)** – 직교 투영, 최소자승
 8. **Review & Exam** – 중간고사 준비 및 시행
 9. **Determinants** – 성질, 기하적 의미
-10. **Eigenvalues/Eigenvectors (1)** – 고유값 문제 소개 *(온라인 대체 수업)*
+10. **Eigenvalues/Eigenvectors (1)** – 고유값 문제 소개
 11. **Eigenvalues/Eigenvectors (2)** – 대각화, 응용
-12. **Linear Transformations (1)** – 선형사상, 행렬 표현 *(오프라인 진행)*
+12. **Linear Transformations (1)** – 선형사상, 행렬 표현
 13. **Linear Transformations (2)** – 기저변환, 응용 사례
 14. **Applications** – 공학적 활용, 복습
 15. **Review & Final Exam** – 보강/기말고사 (필요 시 16주차 활용)
