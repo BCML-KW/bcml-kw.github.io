@@ -39,7 +39,7 @@
               {{ replace (replace .notice "{year}" now.Year) "{license}" (site.Params.footer.copyright.license.text | default "CC BY-SA 4.0") | markdownify}}
             {{- end -}}
             <span style="margin: 0 8px;">|</span>
-            <a href="/terms/" style="color: #8A1601; text-decoration: none;">Terms & Privacy</a>
+            <a href="{{ "/terms/" | relLangURL }}" style="color: #8A1601; text-decoration: none;">Terms & Privacy</a>
             <span style="margin: 0 8px;">|</span>
             <a href="https://github.com/BCML-KW" target="_blank" rel="noopener" style="color: #8A1601; text-decoration: none;">GitHub</a>
           </p>
