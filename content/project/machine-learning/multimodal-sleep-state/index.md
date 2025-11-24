@@ -2,7 +2,7 @@
 title: 'Multimodal Sleep State Estimation'
 subtitle: 'Explainable deep learning for EEG, ECG, and wearable fusion'
 summary: 'Designing interpretable CNN-Transformer pipelines that estimate sleep stages from cross-modal biosignals collected in clinical studies and remote assignments.'
-date: 2024-01-20
+date: 2022-01-20
 share: false
 authors:
   - jaewoo-baek
