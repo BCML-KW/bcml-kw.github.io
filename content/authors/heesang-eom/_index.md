@@ -1,62 +1,41 @@
 ---
-# Display name
 title: Heesang Eom
-
-# Full Name (for SEO)
 first_name: Heesang
 last_name: Eom
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Researcher, Seoul National University Hospital
-
-# Organizations/Affiliations
 organizations:
-  - name: Seoul National University Hospital (Military Service)
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: His research interests include bio-signal processing, deep learning algorithms and model optimization.
-
+- name: Seoul National University Hospital (Military Service)
+  url: ''
+bio: His research interests include bio-signal processing, deep learning algorithms
+  and model optimization.
 interests:
-  - Bio-Signal Processing
-  - Deep Learning Algorithms
-  - Model Optimization
-  - Blood Pressure Estimation
-  - Attention Mechanism
-  - Medical Image Segmentation
-
+- Bio-Signal Processing
+- Deep Learning Algorithms
+- Model Optimization
+- Blood Pressure Estimation
+- Attention Mechanism
+- Medical Image Segmentation
 education:
   courses:
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Software Engineering
-      institution: Korea Polytechnic University
-      year: 
-
-# Social/Academic Networking
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Software Engineering
+    institution: Korea Polytechnic University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:heesang@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=WdrM0SkAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:9200heesang@gmail.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=WdrM0SkAAAAJ
+email: 9200heesang@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Heesang Eom is currently a researcher at Seoul National University Hospital (Military Service). He received a BS degree in software engineering from Korea Polytechnic University in Gyeonggi, South Korea.
 
 His research interests include bio-signal processing, deep learning algorithms and model optimization, with a focus on blood pressure estimation and medical image analysis.

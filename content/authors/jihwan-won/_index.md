@@ -42,10 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jihwan@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/
+    link: 'mailto:wjh5597486@gmail.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -62,7 +59,7 @@ Jihwan Won received his BS degree in mechanical engineering from Dankook Univers
 
 His research interests include machine learning and deep learning algorithms, with a focus on human action recognition, graph neural networks, and multimodal learning.
 
-## Selected Publications
+## Publications
 
 ### Conference Papers
 

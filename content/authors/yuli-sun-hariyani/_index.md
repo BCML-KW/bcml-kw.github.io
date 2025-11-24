@@ -1,65 +1,43 @@
 ---
-# Display name
 title: Yuli Sun Hariyani
-
-# Full Name (for SEO)
 first_name: Yuli Sun
 last_name: Hariyani
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Assistant Professor, Telkom University
-
-# Organizations/Affiliations
 organizations:
-  - name: Telkom University, Indonesia
-    url: 'https://telkomuniversity.ac.id/'
-
-# Short bio (displayed in user profile at end of posts)
+- name: Telkom University, Indonesia
+  url: https://telkomuniversity.ac.id/
 bio: Her research interests include image processing and biomedical image processing.
-
 interests:
-  - Image Processing
-  - Biomedical Image Processing
-  - Deep Learning
-  - Nailfold Capillary Analysis
-  - Medical Image Segmentation
-  - Smart Sensors
-
+- Image Processing
+- Biomedical Image Processing
+- Deep Learning
+- Nailfold Capillary Analysis
+- Medical Image Segmentation
+- Smart Sensors
 education:
   courses:
-    - course: PhD in Computer Engineering
-      institution: Kwangwoon University, South Korea
-      year: 
-    - course: MS
-      institution: Telkom University, Indonesia
-      year: 
-    - course: BS
-      institution: Telkom University, Indonesia
-      year: 
-
-# Social/Academic Networking
+  - course: PhD in Computer Engineering
+    institution: Kwangwoon University, South Korea
+    year: null
+  - course: MS
+    institution: Telkom University, Indonesia
+    year: null
+  - course: BS
+    institution: Telkom University, Indonesia
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yulisun@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=Dc6wn9AAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:yulisun@tass.telkomuniversity.ac.id
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Dc6wn9AAAAAJ
+email: yulisun@tass.telkomuniversity.ac.id
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Yuli Sun Hariyani received her PhD degree in Computer Engineering Department at Kwangwoon University, South Korea. She received her BS and MS degree from Telkom University, Indonesia.
 
 Her research interests include image processing and biomedical image processing, with a focus on deep learning applications in medical imaging and nailfold capillary analysis.

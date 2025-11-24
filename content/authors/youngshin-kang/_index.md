@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:youngshin@example.com'
+    link: 'mailto:ysin0414@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TbDflZoAAAAJ
@@ -61,7 +61,7 @@ Young-shin Kang received the B.S. degree in computer engineering from Far East U
 
 Her research interests include lightweight deep learning algorithms, signal processing, and the Internet of Things.
 
-## Selected Publications
+## Publications
 
 ### Journal Articles
 

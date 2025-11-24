@@ -1,68 +1,47 @@
 ---
-# Display name
 title: Jiwoo Ryu
-
-# Full Name (for SEO)
 first_name: Jiwoo
 last_name: Ryu
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: PhD Student, University of Groningen
-
-# Organizations/Affiliations
 organizations:
-  - name: Johann Bernoulli Institute for Mathematics and Computer Science, University of Groningen
-    url: 'https://www.rug.nl/'
-
-# Short bio (displayed in user profile at end of posts)
+- name: Johann Bernoulli Institute for Mathematics and Computer Science, University
+    of Groningen
+  url: https://www.rug.nl/
 bio: His research interests include image processing and biomedical signal processing.
-
 interests:
-  - Image Processing
-  - Biomedical Signal Processing
-  - Computer Vision
-  - Signal Analysis
-
+- Image Processing
+- Biomedical Signal Processing
+- Computer Vision
+- Signal Analysis
 education:
   courses:
-    - course: PhD in Computer Science (Current)
-      institution: University of Groningen, Netherlands
-      year: 
-    - course: MEng in Computer Engineering
-      institution: Kwangwoon University
-      year: 2015
-    - course: BEng in Computer Engineering
-      institution: Kwangwoon University
-      year: 2011
-
-# Social/Academic Networking
+  - course: PhD in Computer Science (Current)
+    institution: University of Groningen, Netherlands
+    year: null
+  - course: MEng in Computer Engineering
+    institution: Kwangwoon University
+    year: 2015
+  - course: BEng in Computer Engineering
+    institution: Kwangwoon University
+    year: 2011
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:jiwoo@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=C06wvpQAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:jwryu1128@gmail.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=C06wvpQAAAAJ
+email: jwryu1128@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Jiwoo You is currently a PhD student at the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands. He is currently jointly working with the Kapteyn Astronomical Institute.
 
 He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea, in 2011 and 2015, respectively. His research interests include image processing and biomedical signal processing.
 
-## Selected Publications
+## Publications
 
 ### Journal Articles
 

@@ -10,12 +10,14 @@ last_name: Ryu
 superuser: false
 
 # Role/position
-role: MS Student
+role: MS Student, Researcher at Selectstar
 
 # Organizations/Affiliations
 organizations:
   - name: Department of Computer Engineering, Kwangwoon University
     url: 'https://www.kw.ac.kr'
+  - name: Selectstar (Military Service)
+    url: 'https://www.selectstar.ai'
 
 # Short bio (displayed in user profile at end of posts)
 bio: His research interests include LLM, deep learning, computer vision, and time series.
@@ -31,18 +33,18 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: MS in Computer Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2026
     - course: BS in Computer Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2024
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hanwoong@example.com'
+    link: 'mailto:fbgksdnd0814@naver.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=fay6ofsAAAAJ
@@ -62,7 +64,7 @@ Hanwoong Ryu received his BS degree in Computer Engineering from Kwangwoon Unive
 
 His research interests include Large Language Models (LLM), deep learning, computer vision, and time series analysis. He was a summer trainee at the Electronics and Telecommunications Research Institute (ETRI) from July to August 2024.
 
-## Selected Publications
+## Publications
 
 ### Journal Articles
 

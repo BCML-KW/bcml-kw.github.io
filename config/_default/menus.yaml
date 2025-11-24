@@ -5,7 +5,7 @@
 
 main:
   - name: Research Project
-    url: tour
+    url: project
     weight: 10
   - name: Publications
     url: publication

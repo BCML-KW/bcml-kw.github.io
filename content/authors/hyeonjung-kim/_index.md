@@ -39,10 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hyeonjung@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/
+    link: 'mailto:a9016038@gmail.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

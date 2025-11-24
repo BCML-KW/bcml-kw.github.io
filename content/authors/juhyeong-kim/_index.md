@@ -1,58 +1,37 @@
 ---
-# Display name
 title: Juhyeong Kim
-
-# Full Name (for SEO)
 first_name: Juhyeong
 last_name: Kim
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Researcher, WOORI BANK
-
-# Organizations/Affiliations
 organizations:
-  - name: WOORI BANK
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: His research interests include machine learning algorithms, specifically deep learning, reinforcement learning, and automated machine learning (AutoML).
-
+- name: WOORI BANK
+  url: ''
+bio: His research interests include machine learning algorithms, specifically deep
+  learning, reinforcement learning, and automated machine learning (AutoML).
 interests:
-  - Machine Learning Algorithms
-  - Deep Learning
-  - Reinforcement Learning
-  - Automated Machine Learning (AutoML)
-  - ECG-based Authentication
-
+- Machine Learning Algorithms
+- Deep Learning
+- Reinforcement Learning
+- Automated Machine Learning (AutoML)
+- ECG-based Authentication
 education:
   courses:
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-
-# Social/Academic Networking
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:juhyeong@example.com'
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:kjoohyu@gmail.com
+email: kjoohyu@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Juhyeong Kim is currently a researcher at WOORI BANK. Previously, he was a researcher at KETI (Korea Electronics Technology Institute) from August 2021 to June 2022.
 
 He received his BS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea. His research interests include machine learning algorithms, specifically deep learning, reinforcement learning, and automated machine learning (AutoML).

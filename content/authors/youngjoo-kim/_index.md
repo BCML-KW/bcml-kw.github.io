@@ -1,64 +1,43 @@
 ---
-# Display name
 title: Youngjoo Kim
-
-# Full Name (for SEO)
 first_name: Youngjoo
 last_name: Kim
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: ASML, Netherlands
-
-# Organizations/Affiliations
 organizations:
-  - name: ASML
-    url: 'https://www.asml.com/'
-
-# Short bio (displayed in user profile at end of posts)
-bio: Her research interests include visual analytics in big data and blind signal processing with applications in astronomy and biomedicine.
-
+- name: ASML
+  url: https://www.asml.com/
+bio: Her research interests include visual analytics in big data and blind signal
+  processing with applications in astronomy and biomedicine.
 interests:
-  - Visual Analytics in Big Data
-  - Blind Signal Processing
-  - EEG Signal Processing
-  - Brain-Computer Interface (BCI)
-  - Machine Learning
-
+- Visual Analytics in Big Data
+- Blind Signal Processing
+- EEG Signal Processing
+- Brain-Computer Interface (BCI)
+- Machine Learning
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: University of Groningen, Netherlands
-      year: 
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 2017
-    - course: BS in Computer Engineering
-      institution: Kwangwoon University
-      year: 2015
-
-# Social/Academic Networking
+  - course: PhD in Computer Science
+    institution: University of Groningen, Netherlands
+    year: null
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: 2017
+  - course: BS in Computer Engineering
+    institution: Kwangwoon University
+    year: 2015
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:youngjoo@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=CaaCrhMAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:lyoungjookiml@gmail.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CaaCrhMAAAAJ
+email: lyoungjookiml@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Youngjoo Kim is currently employed at ASML's headquarters in the Netherlands. Previously, she was a PhD student in the Scientific Visualization and Computer Graphics (SVCG) group, within the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands.
 
 She received her BS and MS degree in computer engineering from Kwangwoon University, Seoul, Republic of Korea, in 2015 and 2017, respectively. Her research interests include visual analytics in big data and blind signal processing with applications in astronomy and biomedicine.

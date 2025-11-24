@@ -1,58 +1,37 @@
 ---
-# Display name
 title: Woojoon Seok
-
-# Full Name (for SEO)
 first_name: Woojoon
 last_name: Seok
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Researcher, Samsung DS
-
-# Organizations/Affiliations
 organizations:
-  - name: Samsung DS
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: His research interests include biomedical signal processing and machine learning algorithms.
-
+- name: Samsung DS
+  url: ''
+bio: His research interests include biomedical signal processing and machine learning
+  algorithms.
 interests:
-  - Biomedical Signal Processing
-  - Machine Learning Algorithms
-  - Deep Reinforcement Learning
-  - Pattern Recognition
-  - Robotics
-
+- Biomedical Signal Processing
+- Machine Learning Algorithms
+- Deep Reinforcement Learning
+- Pattern Recognition
+- Robotics
 education:
   courses:
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Robotics
-      institution: Kwangwoon University
-      year: 
-
-# Social/Academic Networking
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Robotics
+    institution: Kwangwoon University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:woojoon@example.com'
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:swj20000@gmail.com
+email: swj20000@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Woojoon Seok is currently a researcher at Samsung DS (since 2021). Previously, he was a researcher at KITECH (2020).
 
 He received a BS degree in robotics from Kwangwoon University in Seoul, South Korea. His research interests include biomedical signal processing and machine learning algorithms.

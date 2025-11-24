@@ -41,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jiseok@example.com'
+    link: 'mailto:yjiseok95@gmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/citations?hl=ko&user=oL9cQ8kAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

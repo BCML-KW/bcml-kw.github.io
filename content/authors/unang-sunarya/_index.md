@@ -1,68 +1,46 @@
 ---
-# Display name
 title: Unang Sunarya
-
-# Full Name (for SEO)
 first_name: Unang
 last_name: Sunarya
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Researcher, Telkom University
-
-# Organizations/Affiliations
 organizations:
-  - name: Telkom University, Indonesia
-    url: 'https://telkomuniversity.ac.id/'
-
-# Short bio (displayed in user profile at end of posts)
+- name: Telkom University, Indonesia
+  url: https://telkomuniversity.ac.id/
 bio: My research interests include signal processing and electronic engineering.
-
 interests:
-  - Signal Processing
-  - Electronic Engineering
-  - Gait Analysis
-  - Sleep Classification
-  - Wearable Technology
-  - Machine Learning
-
+- Signal Processing
+- Electronic Engineering
+- Gait Analysis
+- Sleep Classification
+- Wearable Technology
+- Machine Learning
 education:
   courses:
-    - course: PhD in Computer Engineering
-      institution: Kwangwoon University, South Korea
-      year: 
-    - course: MS
-      institution: Telkom University, Indonesia
-      year: 
-    - course: BS
-      institution: Telkom University, Indonesia
-      year: 
-    - course: Diploma
-      institution: Bandung State Polytechnic (POLBAN), Indonesia
-      year: 
-
-# Social/Academic Networking
+  - course: PhD in Computer Engineering
+    institution: Kwangwoon University, South Korea
+    year: null
+  - course: MS
+    institution: Telkom University, Indonesia
+    year: null
+  - course: BS
+    institution: Telkom University, Indonesia
+    year: null
+  - course: Diploma
+    institution: Bandung State Polytechnic (POLBAN), Indonesia
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:unang@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=3fSHe4oAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:unangsunarya2040@gmail.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=3fSHe4oAAAAJ
+email: unangsunarya2040@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Unang Sunarya is currently a researcher at Telkom University, Indonesia. He received his PhD degree in Computer Engineering Department at Kwangwoon University, South Korea.
 
 He received Diploma degree from Bandung State Polytechnic (POLBAN), BS and MS degree from Telkom University, Indonesia. His research interests include signal processing and electronic engineering.

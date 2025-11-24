@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jiwoon@example.com'
+    link: 'mailto:jwlee@linux.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=L8N4pFoAAAAJ
@@ -59,7 +59,7 @@ Jiwoon Lee received his BS degree and is currently pursuing a MS degree in Compu
 
 His research interests include computational neuroscience, signal processing and brain-computer interfaces. Lee's work focuses on applying advanced computational methods to understand neural processes and develop innovative brain-computer interaction technologies.
 
-## Selected Publications
+## Publications
 
 ### Journal Articles (SCIE)
 

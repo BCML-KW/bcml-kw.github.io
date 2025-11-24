@@ -1,61 +1,39 @@
 ---
-# Display name
 title: Minsoo Yeo
-
-# Full Name (for SEO)
 first_name: Minsoo
 last_name: Yeo
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Software Engineer, DRAX, Department of Technology Research Center
-
-# Organizations/Affiliations
 organizations:
-  - name: DRAX Co. LTD, Department of Technology Research Center
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
+- name: DRAX Co. LTD, Department of Technology Research Center
+  url: ''
 bio: His research interests include biomedical signal processing and embedded software.
-
 interests:
-  - Biomedical Signal Processing
-  - Embedded Software
-  - Sleep Stage Detection
-  - Wearable Sensors
-  - Machine Learning
-
+- Biomedical Signal Processing
+- Embedded Software
+- Sleep Stage Detection
+- Wearable Sensors
+- Machine Learning
 education:
   courses:
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Biomedical Engineering
-      institution: Kwangwoon University
-      year: 
-
-# Social/Academic Networking
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Biomedical Engineering
+    institution: Kwangwoon University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:minsoo@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=wEzf8pwAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:minsooyeo119112@gmail.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=wEzf8pwAAAAJ
+email: minsooyeo119112@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Minsoo Yeo is currently a researcher at TaeWoong Medical Digital Healthcare Division. He received a BS degree in biomedical engineering from Kwangwoon University.
 
 His research interests include biomedical signal processing and embedded software, with a focus on sleep stage detection using wearable sensors.

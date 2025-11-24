@@ -10,7 +10,7 @@ last_name: Lee
 superuser: false
 
 # Role/position
-role: MS Graduate
+role: Researcher, Kwangwoon University
 
 # Organizations/Affiliations
 organizations:
@@ -41,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jihong@example.com'
+    link: 'mailto:ljihong0526@kw.ac.kr'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/
+    link: https://scholar.google.com/citations?hl=ko&user=N1LIEVkAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -61,7 +61,7 @@ Jihong Lee received her BS and MS degree in Computer Engineering from Kwangwoon 
 
 Her research interests include biomedical signal processing, reinforcement learning, and deep learning algorithms, with a focus on blood pressure estimation and medical image analysis.
 
-## Selected Publications
+## Publications
 
 ### Journal Articles
 

@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.kw.ac.kr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: His research interests include computer vision, machine learning algorithms, and drone detection.
+bio: Her research interests include computer vision, machine learning algorithms, and drone detection.
 
 interests:
   - Computer Vision
@@ -40,10 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:minji@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/
+    link: 'mailto:mjkim0819@naver.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

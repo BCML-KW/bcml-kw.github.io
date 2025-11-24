@@ -1,65 +1,43 @@
 ---
-# Display name
 title: Seungwoo Han
-
-# Full Name (for SEO)
 first_name: Seungwoo
 last_name: Han
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: PhD Student, Tokyo University of Agriculture and Technology
-
-# Organizations/Affiliations
 organizations:
-  - name: Tokyo University of Agriculture and Technology (東京農工大学), Japan
-    url: 'https://www.tuat.ac.jp/'
-
-# Short bio (displayed in user profile at end of posts)
+- name: Tokyo University of Agriculture and Technology (東京農工大学), Japan
+  url: https://www.tuat.ac.jp/
 bio: His research interests include graph signal processing and representation learning.
-
 interests:
-  - Graph Signal Processing
-  - Representation Learning
-  - Deep Learning
-  - Arrhythmia Detection
-  - Blood Pressure Estimation
-  - Machine Learning
-
+- Graph Signal Processing
+- Representation Learning
+- Deep Learning
+- Arrhythmia Detection
+- Blood Pressure Estimation
+- Machine Learning
 education:
   courses:
-    - course: PhD (Current)
-      institution: Tokyo University of Agriculture and Technology, Japan
-      year: 
-    - course: MSc in Software Engineering
-      institution: Kwangwoon University
-      year: 2021
-    - course: BS
-      institution: Kwangwoon University
-      year: 
-
-# Social/Academic Networking
+  - course: PhD (Current)
+    institution: Tokyo University of Agriculture and Technology, Japan
+    year: null
+  - course: MSc in Software Engineering
+    institution: Kwangwoon University
+    year: 2021
+  - course: BS
+    institution: Kwangwoon University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:seungwoo@example.com'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=NWbfyKYAAAAJ
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:seungwoohan0108@gmail.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NWbfyKYAAAAJ
+email: seungwoohan0108@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Seungwoo Han is currently a PhD student at Tokyo University of Agriculture and Technology (東京農工大学), Japan. He received his MSc degree in software engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include graph signal processing and representation learning.

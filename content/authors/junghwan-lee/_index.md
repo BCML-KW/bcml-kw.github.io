@@ -41,7 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:junghwan@example.com'
+    link: 'mailto:hjn040281@gmail.com'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=ko&user=aAE99RYAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -58,7 +61,7 @@ Junghwan Lee received the B.S. degree in Computer Engineering at Kwangwoon Unive
 
 His research interests include machine learning and deep learning algorithms, with a focus on remote photoplethysmography, biomedical signal processing, and quaternion-based neural networks.
 
-## Selected Publications
+## Publications
 
 ### Journal Articles
 

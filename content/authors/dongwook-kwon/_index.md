@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dongwook@example.com'
+    link: 'mailto:tomiyadragon@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4dZoa_8AAAAJ
@@ -61,7 +61,7 @@ Dongwook Kwon received his BS degree in Electronics & Communications Engineering
 
 His research interests include deep learning, anomaly detection algorithms, and computer vision, with a focus on medical device security and industrial cyber-physical systems.
 
-## Selected Publications
+## Publications
 
 ### Conference Papers
 

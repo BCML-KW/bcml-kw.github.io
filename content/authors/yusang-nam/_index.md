@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yusang@example.com'
+    link: 'usang0821@naver.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

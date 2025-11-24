@@ -1,58 +1,37 @@
 ---
-# Display name
 title: Wongyu Lee
-
-# Full Name (for SEO)
 first_name: Wongyu
 last_name: Lee
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Researcher, FOUNT
-
-# Organizations/Affiliations
 organizations:
-  - name: FOUNT
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: His research interests include machine learning algorithms, specifically spiking neural network (SNN) and reinforcement learning.
-
+- name: FOUNT
+  url: ''
+bio: His research interests include machine learning algorithms, specifically spiking
+  neural network (SNN) and reinforcement learning.
 interests:
-  - Machine Learning Algorithms
-  - Spiking Neural Network (SNN)
-  - Reinforcement Learning
-  - Deep Learning
-  - Arrhythmia Detection
-
+- Machine Learning Algorithms
+- Spiking Neural Network (SNN)
+- Reinforcement Learning
+- Deep Learning
+- Arrhythmia Detection
 education:
   courses:
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Mathematics (Minor in Computer Science and Physics)
-      institution: University of Minnesota-Twin Cities, USA
-      year: 
-
-# Social/Academic Networking
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Mathematics (Minor in Computer Science and Physics)
+    institution: University of Minnesota-Twin Cities, USA
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:wongyu@example.com'
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:leew1729@gmail.com
+email: leew1729@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Wongyu Lee is currently a researcher at FOUNT. He received his BS degree in Mathematics from University of Minnesota-Twin Cities in the U.S. with minor in Computer Science and Physics.
 
 His research interests include machine learning algorithms, specifically spiking neural network (SNN) and reinforcement learning.

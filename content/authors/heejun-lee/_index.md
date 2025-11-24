@@ -1,62 +1,39 @@
 ---
-# Display name
 title: Heejun Lee
-
-# Full Name (for SEO)
 first_name: Heejun
 last_name: Lee
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: PhD Student, University of Groningen
-
-# Organizations/Affiliations
 organizations:
-  - name: University of Groningen (RUG), Netherlands
-    url: 'https://www.rug.nl/'
-
-# Short bio (displayed in user profile at end of posts)
+- name: University of Groningen (RUG), Netherlands
+  url: https://www.rug.nl/
 bio: His research interests include biomedical signal processing and wearable IT.
-
 interests:
-  - Biomedical Signal Processing
-  - Wearable IT
-  - EEG Signal Processing
-  - Brain-Computer Interface (BCI)
-  - Attention Classification
-
+- Biomedical Signal Processing
+- Wearable IT
+- EEG Signal Processing
+- Brain-Computer Interface (BCI)
+- Attention Classification
 education:
   courses:
-    - course: PhD (Current)
-      institution: University of Groningen, Netherlands
-      year: 
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-
-# Social/Academic Networking
+  - course: PhD (Current)
+    institution: University of Groningen, Netherlands
+    year: null
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:heejun@example.com'
-
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:lhjun20@gmail.com
+email: lhjun20@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Heejun Lee is currently a PhD student at the University of Groningen (Rijksuniversiteit Groningen, RUG), Netherlands. Previously, he was a researcher at LG.
 
 He received a BS and MS degree in computer engineering from Kwangwoon University in Seoul, South Korea. His research interests include biomedical signal processing and wearable IT.

@@ -1,58 +1,37 @@
 ---
-# Display name
 title: Youjung Seo
-
-# Full Name (for SEO)
 first_name: Youjung
 last_name: Seo
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
 role: Researcher, KLA
-
-# Organizations/Affiliations
 organizations:
-  - name: KLA
-    url: 'https://www.kla.com/'
-
-# Short bio (displayed in user profile at end of posts)
-bio: Her research interests include biomedical signal processing, e-health and machine learning algorithms.
-
+- name: KLA
+  url: https://www.kla.com/
+bio: Her research interests include biomedical signal processing, e-health and machine
+  learning algorithms.
 interests:
-  - Biomedical Signal Processing
-  - e-Health
-  - Machine Learning Algorithms
-  - Blood Pressure Estimation
-  - Deep Learning
-
+- Biomedical Signal Processing
+- e-Health
+- Machine Learning Algorithms
+- Blood Pressure Estimation
+- Deep Learning
 education:
   courses:
-    - course: MS in Computer Engineering
-      institution: Kwangwoon University
-      year: 
-    - course: BS in Psychology
-      institution: Chung-Ang University
-      year: 
-
-# Social/Academic Networking
+  - course: MS in Computer Engineering
+    institution: Kwangwoon University
+    year: null
+  - course: BS in Psychology
+    institution: Chung-Ang University
+    year: null
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:youjung@example.com'
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+- icon: envelope
+  icon_pack: fas
+  link: mailto:youjungseo0317@gmail.com
+email: youjungseo0317@gmail.com
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+- Alumni
 ---
-
 Youjung Seo is currently a researcher at KLA. She received her BS degree in psychology from Chung-Ang University, South Korea.
 
 Her research interests include biomedical signal processing, e-health and machine learning algorithms, with a focus on blood pressure estimation using wearable devices.
