@@ -1,8 +1,8 @@
 ---
 title: Effects of visual and auditory delta band stimuli on sleep
 authors:
-- hyuntae-lee
-- M. S. Yeo
+- heejun-lee
+- minsoo-yeo
 - youngjoo-kim
 - cheolsoo-park
 - et al.
