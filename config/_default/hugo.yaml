@@ -1,7 +1,7 @@
 # Configuration of Hugo
 
 title: BCML Lab. # Website name
-baseURL: 'http://bcml.kw.ac.kr/' # Website URL
+baseURL: 'https://bcml-kw.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
