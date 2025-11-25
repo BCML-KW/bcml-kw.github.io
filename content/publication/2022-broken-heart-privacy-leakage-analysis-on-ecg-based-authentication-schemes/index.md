@@ -2,7 +2,7 @@
 title: 'Broken Heart: Privacy Leakage Analysis on ECG-Based Authentication Schemes'
 authors:
 - S. Noh
-- jaeyong-kim
+- J. Kim
 - S. Lee
 - youngshin-kang
 - cheolsoo-park

@@ -1,11 +1,10 @@
 ---
-title: Correlation Assisted Strong Uncorrelating Transform Complex Common Spatial
-  Patterns for Spatially Distant Channel Data
+title: Correlation Assisted Strong Uncorrelating Transform Complex Common Spatial Patterns for Spatially Distant Channel Data
 authors:
 - youngjoo-kim
-- J. You
-- hyuntae-lee
-- S. Lee
+- jiwoo-ryu
+- heejun-lee
+- Seungmin Lee
 - cheolsoo-park
 date: '2018-01-01T00:00:00Z'
 publishDate: '2018-01-01T00:00:00Z'

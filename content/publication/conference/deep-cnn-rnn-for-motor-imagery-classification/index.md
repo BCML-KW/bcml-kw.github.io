@@ -1,7 +1,7 @@
 ---
 title: Deep CNN-RNN for Motor Imagery Classification
 authors:
-- hyuntae-lee
+- heejun-lee
 - cheolsoo-park
 date: '2021-09-29T00:00:00Z'
 publishDate: '2021-09-29T00:00:00Z'

@@ -1,7 +1,7 @@
 ---
 title: Recurrent Neural Network with EEG Spectrogram for Motor Imaginary Classification
 authors:
-- hyuntae-lee
+- heejun-lee
 - cheolsoo-park
 date: '2017-01-01T00:00:00Z'
 publishDate: '2017-01-01T00:00:00Z'

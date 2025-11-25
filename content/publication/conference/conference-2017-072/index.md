@@ -1,7 +1,7 @@
 ---
 title: 딥러닝 뇌파 분석을 통한 멀티미디어 강의 시청 집중도 분류
 authors:
-- hyuntae-lee
+- heejun-lee
 - cheolsoo-park
 date: '2019-11-01T00:00:00Z'
 publishDate: '2019-11-01T00:00:00Z'

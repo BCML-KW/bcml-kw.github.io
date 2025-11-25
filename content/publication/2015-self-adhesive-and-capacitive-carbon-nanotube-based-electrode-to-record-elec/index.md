@@ -3,7 +3,7 @@ title: Self-adhesive and Capacitive Carbon Nanotube-based Electrode to Record El
   Signals from the Hairy Scalp
 authors:
 - S. Lee
-- jaeyong-kim
+- J. Kim
 - cheolsoo-park
 - J. Hwang
 - J. Hong

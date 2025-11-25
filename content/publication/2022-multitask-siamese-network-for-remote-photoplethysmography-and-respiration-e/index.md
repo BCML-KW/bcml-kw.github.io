@@ -1,12 +1,12 @@
 ---
 title: Multitask Siamese Network for Remote Photoplethysmography and Respiration Estimation
 authors:
-- hyuntae-lee
-- jiwoon-lee
-- Y. Kwon
-- J. Kwon
-- S. Park
-- R. Sohn
+- Heejin Lee
+- junghwan-lee
+- Yujin Kwon
+- Jiyoon Kwon
+- Sungmin Park
+- Ryanghee Sohn
 - cheolsoo-park
 date: '2022-07-07T00:00:00Z'
 publishDate: '2022-07-07T00:00:00Z'

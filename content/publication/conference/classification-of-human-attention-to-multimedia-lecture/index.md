@@ -1,7 +1,7 @@
 ---
 title: Classification of Human Attention to Multimedia Lecture
 authors:
-- hyuntae-lee
+- heejun-lee
 - youngjoo-kim
 - cheolsoo-park
 date: '2018-01-01T00:00:00Z'

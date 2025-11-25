@@ -1,7 +1,7 @@
 ---
 title: Correlation Between Empathy and Experience in Human Emotion from EEG Signal
 authors:
-- hyuntae-lee
+- heejun-lee
 - B.S Hwang
 - youngjoo-kim
 - cheolsoo-park
