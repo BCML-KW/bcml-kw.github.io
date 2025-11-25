@@ -87,7 +87,7 @@ sections:
         
         ---
         
-        *Last updated: October 14, 2025*
+        *Last updated: November 26, 2025*
     design:
       columns: '1'
 ---

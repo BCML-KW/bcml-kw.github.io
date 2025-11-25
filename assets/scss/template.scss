@@ -241,7 +241,36 @@ h1, h2, h3 {
   line-height: 1.6;
 }
 
+
 .author-card {
+  background: rgba(6, 10, 20, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 18px;
+  padding: 1.5rem;
+  color: rgba($kw-white, 0.95);
+
+  .card-title,
+  .card-title a {
+    color: rgba($kw-white, 0.98) !important;
+  }
+
+  .card-subtitle {
+    color: rgba($kw-white, 0.7) !important;
+  }
+
+  .card-text {
+    color: rgba($kw-white, 0.9);
+  }
+
+  .network-icon a,
+  .network-icon i {
+    color: rgba($kw-white, 0.9) !important;
+
+    &:hover {
+      color: $kw-red !important;
+    }
+  }
+
   .biography {
     font-size: 0.9rem;
   }
@@ -744,6 +773,11 @@ img {
   }
 
   .navbar .navbar-collapse {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1000;
     order: 3;
     width: 100%;
     background: rgba(6, 10, 20, 0.95);
@@ -1024,13 +1058,21 @@ canvas#neuralNetwork {
 .people-widget {
   color: $bcml-color-text;
 
+  // Ensure card backgrounds are transparent to avoid white-on-white or dark-on-dark issues
+  .card {
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
   .section-heading h1,
   .section-heading h2,
   h2,
   h3,
   .portrait-title h2,
   .portrait-title h2 a,
-  .portrait-title h3 {
+  .portrait-title h3,
+  p,
+  span {
     color: $bcml-color-text !important;
   }
 
@@ -1040,7 +1082,11 @@ canvas#neuralNetwork {
 
   .people-person .network-icon a,
   .people-person .network-icon i {
-    color: $bcml-color-text;
+    color: $bcml-color-text !important;
+    
+    &:hover {
+      color: $bcml-color-accent !important;
+    }
   }
 }
 
@@ -1535,6 +1581,25 @@ canvas#neuralNetwork {
 .footer-address {
   color: $bcml-color-muted;
   margin-bottom: 1rem;
+}
+
+// Fix metadata color in project lists and other views
+.article-metadata,
+.stream-meta {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.article-metadata a {
+  color: rgba(255, 255, 255, 0.8) !important;
+  
+  &:hover {
+    color: $kw-red !important;
+  }
+}
+
+// Change publication icon color
+.pub-icon {
+  color: $kw-red !important;
 }
 
 @keyframes bcml-floaty {
