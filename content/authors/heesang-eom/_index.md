@@ -36,7 +36,7 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
-Heesang Eom is currently a researcher at Seoul National University Hospital (Military Service). He received a BS degree in software engineering from Korea Polytechnic University in Gyeonggi, South Korea.
+Heesang Eom is currently a researcher at EMMA Healthcare. He received a BS degree in software engineering from Korea Polytechnic University in Gyeonggi, South Korea.
 
 His research interests include bio-signal processing, deep learning algorithms and model optimization, with a focus on blood pressure estimation and medical image analysis.
 
