@@ -3,9 +3,9 @@ title: Heesang Eom
 first_name: Heesang
 last_name: Eom
 superuser: false
-role: Researcher, Seoul National University Hospital
+role: Researcher, EMMA Healthcare
 organizations:
-- name: Seoul National University Hospital (Military Service)
+- name: Emma Healthcare
   url: ''
 bio: His research interests include bio-signal processing, deep learning algorithms
   and model optimization.
