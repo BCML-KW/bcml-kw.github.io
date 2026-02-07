@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: MS in Computer Engineering Student (Current)
       institution: Kwangwoon University
       year: 
-    - course: Computer Engineering (Undergraduate)
+    - course: BS in Computer Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2025
 
 # Social/Academic Networking
 social:

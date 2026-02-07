@@ -14,7 +14,7 @@ role: Undergraduate Intern
 
 # Organizations/Affiliations
 organizations:
-  - name: Kwangwoon University
+  - name: School of Computer and Information Engineering, Kwangwoon University
     url: 'https://www.kw.ac.kr'
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: Undergraduate
+    - course: BS in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
 
@@ -39,9 +39,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:khw246812@gmail.com'
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -10,13 +10,11 @@ last_name: Ryu
 superuser: false
 
 # Role/position
-role: MS Student, Researcher at Selectstar
+role: Researcher, Selectstar
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Computer Engineering, Kwangwoon University
-    url: 'https://www.kw.ac.kr'
-  - name: Selectstar (Military Service)
+  - name: Selectstar
     url: 'https://www.selectstar.ai'
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,10 +55,10 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - Alumni
 ---
 
-Hanwoong Ryu received his BS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea. He is currently pursuing the MS degree in computer engineering at Kwangwoon University.
+Hanwoong Ryu received his BS and MS degrees in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include Large Language Models (LLM), deep learning, computer vision, and time series analysis. He was a summer trainee at the Electronics and Telecommunications Research Institute (ETRI) from July to August 2024.
 

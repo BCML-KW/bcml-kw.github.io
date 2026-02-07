@@ -10,12 +10,12 @@ last_name: Kwon
 superuser: false
 
 # Role/position
-role: MS Student
+role: Researcher, Suresoft Technologies Inc.
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Computer Engineering, Kwangwoon University
-    url: 'https://www.kw.ac.kr'
+  - name: Suresoft Technologies Inc.
+    url: 'https://www.suresofttech.com/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: His research interests include deep learning, anomaly detection algorithm, and computer vision.
@@ -30,12 +30,12 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: MS in Computer Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2026
     - course: BS in Electronics & Communications Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2024
 
 # Social/Academic Networking
 social:
@@ -54,10 +54,10 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - Alumni
 ---
 
-Dongwook Kwon received his BS degree in Electronics & Communications Engineering from Kwangwoon University in Seoul, South Korea. He is currently pursuing the MS degree in computer engineering at Kwangwoon University.
+Dongwook Kwon received his BS degree in Electronics & Communications Engineering and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include deep learning, anomaly detection algorithms, and computer vision, with a focus on medical device security and industrial cyber-physical systems.
 

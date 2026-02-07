@@ -2,7 +2,7 @@
 title: LLM 기반 다중 에이전트 강화학습을 활용한 이상탐지 기법
 authors:
 - dongwook-kwon
-- minseong-oh
+- Minseong Oh
 - cheolsoo-park
 date: '2025-10-01T00:00:00Z'
 publishDate: '2025-10-01T00:00:00Z'

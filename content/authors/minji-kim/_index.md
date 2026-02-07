@@ -34,7 +34,7 @@ education:
       year: 
     - course: BS in Electrical Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2024
 
 # Social/Academic Networking
 social:

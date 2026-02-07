@@ -1,16 +1,58 @@
+# BCML Lab. 웹사이트
+
+이 저장소는 광운대학교 BCML 연구실의 공식 웹사이트 소스 코드를 담고 있습니다.
+
+---
+
 ## 사이트 유지보수 가이드
 
-1. **개발 환경 준비**
-   - Hugo Extended 최신 버전을 설치하고 `npm install`로 필요한 자산 빌드 도구를 준비합니다.
-   - `hugo server -D`로 로컬 미리보기를 띄워 콘텐츠/레이아웃 변경을 즉시 확인합니다.
-2. **콘텐츠 업데이트**
-   - 새 글·인물·사진 등은 `content/` 하위의 해당 디렉터리에 Markdown 파일로 추가하거나 수정합니다.
-   - 공통 설정(메뉴, 파라미터 등)은 `config/_default/*.yaml`에서 관리합니다.
-3. **스타일·스크립트 관리**
-   - SCSS, JS 등 자산은 `assets/` 디렉터리에서 관리하고, 변경 후 `hugo`가 자동으로 번들링합니다.
-4. **빌드 및 배포**
-   - 릴리스 전에 `hugo server -D`로 전체 사이트를 점검합니다.
-   - Netlify/GitHub Pages 등 배포 파이프라인이 최신 브랜치(`main`)로 트리거되는지 확인합니다.
+이 웹사이트는 [Hugo](https://gohugo.io/)와 [Hugo Blox Builder](https://hugoblox.com/)를 사용하여 제작되었습니다.
+
+### 1. 개발 환경 설정
+
+웹사이트를 로컬에서 수정하고 미리보려면 Hugo Extended 버전이 필요합니다.
+
+#### **Hugo 설치**
+- **Ubuntu (Debian 계열):**
+  ```bash
+  sudo apt update
+  sudo apt install hugo
+  ```
+  *(참고: `sudo apt install hugo`로 설치되는 버전이 낮을 경우 [Hugo Releases](https://github.com/gohugoio/hugo/releases)에서 `.deb` 파일을 다운로드하여 설치하는 것을 권장합니다.)*
+- **Windows:**
+  ```powershell
+  winget install Hugo.Hugo.Extended
+  ```
+- **macOS (Homebrew):**
+  ```bash
+  brew install hugo
+  ```
+
+#### **의존성 설치**
+저장소를 클론한 후, 프로젝트 루트 디렉터리에서 `npm install`을 실행하여 필요한 도구를 준비합니다.
+```bash
+npm install
+```
+
+### 2. 로컬 미리보기 실행
+
+수정 사항을 실시간으로 확인하려면 로컬 개발 서버를 실행합니다.
+```bash
+hugo server -D
+```
+- `-D`: 초안(`draft: true`) 상태인 콘텐츠도 포함하여 빌드합니다.
+- 서버가 실행되면 `http://localhost:1313`에서 사이트를 확인할 수 있습니다.
+
+### 3. 콘텐츠 업데이트 및 관리
+
+- **콘텐츠:** 새 글, 인물, 사진 등은 `content/` 하위의 해당 디렉터리에 Markdown 파일로 추가하거나 수정합니다.
+- **공통 설정:** 메뉴, 파라미터 등은 `config/_default/*.yaml`에서 관리합니다.
+- **스타일 및 스크립트:** SCSS, JS 등 자산은 `assets/` 디렉터리에서 관리하며, 변경 후 `hugo`가 자동으로 번들링합니다.
+
+### 4. 빌드 및 배포
+
+- 릴리스 전에 `hugo server -D`로 전체 사이트를 점검합니다.
+- `main` 브랜치로 `push`하면 Netlify/GitHub Pages 등을 통해 자동 배포가 트리거됩니다.
 
 필요 시 [HugoBlox 문서](https://docs.hugoblox.com/)와 저장소 `README`를 참고해 추가 설정을 적용하세요.
 
