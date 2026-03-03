@@ -61,9 +61,9 @@ user_groups:
   - MS Students
 ---
 
-Jiwoon Lee received his BS degree and is currently pursuing a MS degree in Computer Engineering at Kwangwoon University, Seoul, South Korea.
+Jiwoon Lee received his B.S. degree and is currently pursuing an M.S. degree in Computer Engineering at Kwangwoon University, Seoul, South Korea.
 
-His research interests include computational neuroscience, signal processing and brain-computer interfaces. Lee's work focuses on applying advanced computational methods to understand neural processes and develop innovative brain-computer interaction technologies.
+His research interests include neuromorphic computing, brain-computer interfaces, scientific computing and computational neuroscience. In recognition of his academic contributions, he was honored with the Best Paper Award (Bronze) at the 2022 IEEE ICCE-Asia. Lee’s work focuses on applying advanced computational methods to understand neural processes and develop innovative brain-computer interaction technologies.
 
 ## Publications
 
