@@ -4,7 +4,7 @@ authors:
   - "박철수"
   - "강영신"
   - "권동욱"
-date: '2022-11-30'
+date: '2026-04-30'
 publishDate: '2026-04-30'
 publication_types:
   - patent
