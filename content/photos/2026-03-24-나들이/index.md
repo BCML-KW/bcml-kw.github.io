@@ -4,7 +4,7 @@ date: '2026-03-24'
 summary: "북서울 꿈의 숲 연구실 소풍"
 tags: []
 image:
-  filename: ''
+  filename: '나들이.jpg'
   focal_point: center
 ---
 
