@@ -7,7 +7,7 @@ authors:
   - Youngho Cho
   - cheolsoo-park
 date: '2026-10-01T00:00:00Z'
-publishDate: '2026-10-01T00:00:00Z'
+publishDate: '2026-06-09T00:00:00Z'
 doi: "10.1016/j.bspc.2026.110659"
 publication_types:
   - article-journal
