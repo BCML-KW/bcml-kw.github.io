@@ -14,7 +14,7 @@ publishDate: '2020-11-02T00:00:00Z'
 doi: 10.3390/s20216253
 publication_types:
 - article-journal
-publication: Sensors, Vol.20(21)
+publication: MDPI Sensors, Vol.20(21)
 publication_short: ''
 abstract: Gait analysis is commonly used to detect foot disorders and abnormalities
   such as supination, pronation, unstable left foot and unstable right foot. Early

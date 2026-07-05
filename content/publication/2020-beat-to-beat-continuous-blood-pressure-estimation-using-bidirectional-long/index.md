@@ -15,7 +15,7 @@ publishDate: '2020-12-25T00:00:00Z'
 doi: 10.3390/s21010096
 publication_types:
 - article-journal
-publication: Sensors, Vol.21(1)
+publication: MDPI Sensors, Vol.21(1)
 publication_short: ''
 abstract: Continuous blood pressure (BP) monitoring is important for patients with
   hypertension. However, BP measurement with a cuff may be cumbersome for the patient.

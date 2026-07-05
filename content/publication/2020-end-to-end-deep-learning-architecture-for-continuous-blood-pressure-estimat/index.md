@@ -15,7 +15,7 @@ publishDate: '2020-04-20T00:00:00Z'
 doi: 10.3390/s20082338
 publication_types:
 - article-journal
-publication: Sensors, Vol.20(8)
+publication: MDPI Sensors, Vol.20(8)
 publication_short: ''
 abstract: Blood pressure (BP) is a vital sign that provides fundamental health information
   regarding patients. Continuous BP monitoring is important for patients with hypertension.

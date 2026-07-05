@@ -14,7 +14,7 @@ publishDate: '2024-06-19T00:00:00Z'
 doi: 10.3390/s24123980
 publication_types:
 - article-journal
-publication: Sensors, Vol.24(12)
+publication: MDPI Sensors, Vol.24(12)
 publication_short: ''
 abstract: Respiratory rate (RR) is a vital indicator for assessing the bodily functions
   and health status of patients. RR is a prominent parameter in the field of biomedical

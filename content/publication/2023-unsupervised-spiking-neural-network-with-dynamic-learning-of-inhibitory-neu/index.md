@@ -14,7 +14,7 @@ publishDate: '2023-08-17T00:00:00Z'
 doi: 10.3390/s23167232
 publication_types:
 - article-journal
-publication: Sensors, Vol.23(16)
+publication: MDPI Sensors, Vol.23(16)
 publication_short: ''
 abstract: A spiking neural network (SNN) is a type of artificial neural network that
   operates based on discrete spikes to process timing information, similar to the

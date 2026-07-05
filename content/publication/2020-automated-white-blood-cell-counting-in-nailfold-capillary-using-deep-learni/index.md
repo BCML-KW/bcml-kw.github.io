@@ -11,7 +11,7 @@ publishDate: '2020-12-11T00:00:00Z'
 doi: 10.3390/s20247101
 publication_types:
 - article-journal
-publication: Sensors, Vol.20(24)
+publication: MDPI Sensors, Vol.20(24)
 publication_short: ''
 abstract: White blood cells (WBCs) are essential components of the immune system in
   the human body. Various invasive and noninvasive methods to monitor the condition

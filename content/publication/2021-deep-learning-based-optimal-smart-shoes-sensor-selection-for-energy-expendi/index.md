@@ -14,7 +14,7 @@ publishDate: '2021-10-25T00:00:00Z'
 doi: 10.3390/s21217058
 publication_types:
 - article-journal
-publication: Sensors, Vol.21(21)
+publication: MDPI Sensors, Vol.21(21)
 publication_short: ''
 abstract: Wearable technologies are known to improve our quality of life. Among the
   various wearable devices, shoes are non-intrusive, lightweight, and can be used

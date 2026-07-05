@@ -10,7 +10,7 @@ publishDate: '2020-09-17T00:00:00Z'
 doi: 10.3390/s20185317
 publication_types:
 - article-journal
-publication: Sensors, Vol.20(18)
+publication: MDPI Sensors, Vol.20(18)
 publication_short: ''
 abstract: 'Several studies, wherein the structure or rigidity of a mattress was varied,
   have been conducted to improve sleep quality. These studies investigated the effect

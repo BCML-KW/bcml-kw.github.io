@@ -13,7 +13,7 @@ publishDate: '2021-02-24T00:00:00Z'
 doi: 10.3390/s21051568
 publication_types:
 - article-journal
-publication: Sensors, Vol.21(5)
+publication: MDPI Sensors, Vol.21(5)
 publication_short: ''
 abstract: Recently, the interest in biometric authentication based on electrocardiograms
   (ECGs) has increased. Nevertheless, the ECG signal of a person may vary according

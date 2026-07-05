@@ -14,7 +14,7 @@ publishDate: '2023-01-20T00:00:00Z'
 doi: 10.3390/s23031230
 publication_types:
 - article-journal
-publication: Sensors, Vol.23(3)
+publication: MDPI Sensors, Vol.23(3)
 publication_short: ''
 abstract: In this study, the optimal features of electrocardiogram (ECG) signals were
   investigated for the implementation of a personal authentication system using a

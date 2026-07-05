@@ -13,7 +13,7 @@ publishDate: '2022-07-07T00:00:00Z'
 doi: 10.3390/s22145101
 publication_types:
 - article-journal
-publication: Sensors, Vol.22(14)
+publication: MDPI Sensors, Vol.22(14)
 publication_short: ''
 abstract: Heart and respiration rates represent important vital signs for the assessment
   of a person’s health condition. To estimate these vital signs accurately, we propose

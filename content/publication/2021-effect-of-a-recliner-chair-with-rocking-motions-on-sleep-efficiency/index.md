@@ -13,7 +13,7 @@ publishDate: '2021-12-08T00:00:00Z'
 doi: 10.3390/s21248214
 publication_types:
 - article-journal
-publication: Sensors, Vol.21(24)
+publication: MDPI Sensors, Vol.21(24)
 publication_short: ''
 abstract: In this study, we analyze the effect of a recliner chair with rocking motions
   on sleep quality of naps using automated sleep scoring and spindle detection models.
