@@ -1,0 +1,264 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{/* Collect distinct years, newest first. */}}
+  {{ $years := slice }}
+  {{ range .Pages.ByDate.Reverse }}
+    {{ $y := .Date.Format "2006" }}
+    {{ if not (in $years $y) }}{{ $years = $years | append $y }}{{ end }}
+  {{ end }}
+
+  <div class="news-tabs" role="tablist">
+    {{ range $i, $y := $years }}
+    <button type="button" class="news-tab-btn{{ if eq $i 0 }} is-active{{ end }}" data-year="{{ $y }}">{{ $y }}</button>
+    {{ end }}
+  </div>
+
+  <div class="news-grid" id="news-grid">
+    {{ range $index, $item := .Pages.ByDate.Reverse }}
+      {{ $year := .Date.Format "2006" }}
+      {{ $badge := .Params.badge | default "" }}
+      {{/* badge_category: "contest" (대회/전시 수상, ranked) or "academic" (논문/학술상, flat).
+           badge_rank (contest only): "top" / "mid" / "low". Set explicitly per post's front matter
+           rather than guessed from the badge text, since the same word (e.g. "은상") is used both
+           for competition placings and for academic conference honors. */}}
+      {{ $category := .Params.badge_category | default "academic" }}
+      {{ $rank := .Params.badge_rank | default "mid" }}
+      {{ $badgeClass := "" }}
+      {{ if eq $category "contest" }}
+        {{ $badgeClass = printf "news-badge-contest-%s" $rank }}
+      {{ else }}
+        {{ $badgeClass = "news-badge-academic" }}
+      {{ end }}
+
+      {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+
+      <a class="news-card" data-year="{{ $year }}" href="{{ .RelPermalink }}">
+        {{ with $resource }}
+        <div class="news-card__media">
+          {{ $image := . }}
+          {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "resize 480x270 webp" }}{{ end }}
+          <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="news-card__body">
+          <div class="news-card__top">
+            {{ with $badge }}<span class="news-badge {{ $badgeClass }}">{{ . }}</span>{{ end }}
+            <span class="news-date">{{ $item.Date.Format "2006.01" }}</span>
+          </div>
+          <div class="news-card__title">{{ $item.Title }}</div>
+          {{ with $item.Params.summary }}
+          <div class="news-card__summary">{{ . | markdownify }}</div>
+          {{ end }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="news-show-more-wrap">
+    <button type="button" id="news-show-more" class="btn btn-outline-primary btn-sm">{{ i18n "news_show_more" | default "더보기" }}</button>
+  </div>
+
+  <div class="news-legend">
+    <span class="news-legend__swatch news-badge-contest-top"></span> 대회/전시 수상
+    <span class="news-legend__swatch news-badge-academic"></span> 논문/학술상
+  </div>
+
+</div>
+
+<style>
+.news-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.news-tab-btn {
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: rgba(255, 255, 255, 0.03);
+  color: inherit;
+  opacity: 0.7;
+  border-radius: 999px;
+  padding: 0.45rem 1.3rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.news-tab-btn:hover { opacity: 1; }
+.news-tab-btn.is-active {
+  opacity: 1;
+  color: #fff;
+  background: #1a1a1f;
+  border-color: #1a1a1f;
+}
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 1.5rem;
+}
+.news-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(10, 14, 24, 0.88);
+  overflow: hidden;
+  text-decoration: none !important;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+  transition: transform 0.25s ease, border-color 0.25s ease;
+}
+.news-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 255, 255, 0.22);
+}
+.news-card[data-hidden="true"],
+.news-card.news-year-hidden {
+  display: none !important;
+}
+.news-card__media {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.news-card__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+  box-shadow: none;
+}
+.news-card__body {
+  padding: 1.1rem 1.3rem 1.3rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.news-card__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+.news-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.28rem 0.75rem;
+  border-radius: 999px;
+  color: #fff;
+  white-space: nowrap;
+}
+/* Badge color map — single source of truth for the two badge families.
+   Contest/exhibition awards (ranked) stay on one coral hue, varying only in
+   lightness/saturation. Academic/paper awards (no ranking) use one flat pastel lavender. */
+.news-badge-contest-top   { background: #e0473a; color: #fff; }
+.news-badge-contest-mid   { background: #ff6f52; color: #fff; }
+.news-badge-contest-low   { background: #ffcdbf; color: #7a2a17; }
+.news-badge-academic      { background: #c9bdf0; color: #3a2a66; }
+.news-date {
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.55);
+  white-space: nowrap;
+}
+.news-card__title {
+  font-weight: 700;
+  font-size: 1.02rem;
+  line-height: 1.4;
+  margin-bottom: 0.4rem;
+  color: #e8efff;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.news-card__summary {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.news-show-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+#news-show-more.is-hidden { display: none; }
+.news-legend {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.55);
+}
+.news-legend__swatch {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  margin: 0 0.35rem 0 1rem;
+  vertical-align: middle;
+}
+.news-legend__swatch:first-child { margin-left: 0; }
+</style>
+
+<script>
+(function () {
+  var tabs = document.querySelectorAll('.news-tab-btn');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.news-card'));
+  var showMoreBtn = document.getElementById('news-show-more');
+  var VISIBLE_STEP = 6;
+  var currentYear = tabs.length ? tabs[0].getAttribute('data-year') : null;
+  var revealed = VISIBLE_STEP;
+
+  function render() {
+    var visibleForYear = cards.filter(function (c) { return c.getAttribute('data-year') === currentYear; });
+    visibleForYear.forEach(function (c, i) {
+      c.classList.remove('news-year-hidden');
+      c.style.display = (i < revealed) ? '' : 'none';
+    });
+    cards.filter(function (c) { return c.getAttribute('data-year') !== currentYear; }).forEach(function (c) {
+      c.classList.add('news-year-hidden');
+    });
+    if (showMoreBtn) {
+      showMoreBtn.classList.toggle('is-hidden', revealed >= visibleForYear.length);
+    }
+  }
+
+  tabs.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      tabs.forEach(function (b) { b.classList.remove('is-active'); });
+      btn.classList.add('is-active');
+      currentYear = btn.getAttribute('data-year');
+      revealed = VISIBLE_STEP;
+      render();
+    });
+  });
+
+  if (showMoreBtn) {
+    showMoreBtn.addEventListener('click', function () {
+      revealed += VISIBLE_STEP;
+      render();
+    });
+  }
+
+  render();
+})();
+</script>
+
+{{- end -}}

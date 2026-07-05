@@ -33,8 +33,9 @@ social:
   link: https://scholar.google.com/citations?user=LvQBTPoAAAAJ
 email: hyunsoo940324@gmail.com
 highlight_name: true
+list_order: 12
 user_groups:
-- Alumni
+- MS
 ---
 Hyunsoo Yu is currently a researcher at LG Innotek. He received his BS degree in Robotics Engineering from Kwangwoon University in Seoul, South Korea.
 
@@ -54,16 +55,3 @@ His research interests include experiment setting, signal processing, machine le
 
 - **Yu H**, Shin O, Kim S, Park C, "Effect of an Inflatable Air Mattress with Variable Rigidity on Sleep Quality", *MDPI Sensors*, 2020, 20, 5317
 
-### Conference Papers
-
-- **Hyunsoo Yu**, Suwhan Baek, Cheolsoo Park, "Convolutional Neural Network based Empirical Mode Decomposition for Time Series Data Analysis", Summer Annual Conference of IEIE, Jeju, Jun. 2021
-
-- Unang Sunarya, **Hyunsoo Yu**, Sayup Kim, Cheolsoo Park, "A Binary Sleep Classification of BCG Signal using Random Search-Optimized Random Forest", Summer Annual Conference of IEIE, Jeju, Jun. 2021
-
-- Suwhan Baek, Jaewu Baek, **Hyunsoo Yu**, Cheolsoo Park, "Decision Support System for Estimating Sleep Stages Using Single Channel EEG with Attention Mechanism", Summer Annual Conference of IEIE, Jeju, Jun. 2021
-
-- Suwhan Baek, **Hyunsoo Yu**, Cheolsoo Park, "Sleep Staging Automation from EEG signal with CNN", Autumn Annual Conference of IEIE, Gwangju, Nov. 2020
-
-- Jongryun Roh, **Hyunsoo Yu**, Cheolsoo Park, Sayup Kim, "Comparison of Sleep Quality according to Swing Trajectories of the Reclining Mechanism", Autumn Conference Ergonomics Society of Korea, Jeju, Oct. 2020
-
-- **Hyunsoo Yu**, Seungwoo Han, Cheolsoo Park, "Convolutional Neural Network Model Optimization for Single Channel Sleep Electroencephalogram Analysis", Summer Annual Conference of IEIE, Jeju, Aug. 2020

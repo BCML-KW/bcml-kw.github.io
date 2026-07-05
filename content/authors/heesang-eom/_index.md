@@ -33,8 +33,9 @@ social:
   link: https://scholar.google.com/citations?user=WdrM0SkAAAAJ
 email: 9200heesang@gmail.com
 highlight_name: true
+list_order: 7
 user_groups:
-- Alumni
+- MS
 ---
 Heesang Eom is currently a researcher at EMMA Healthcare. He received a BS degree in software engineering from Korea Polytechnic University in Gyeonggi, South Korea.
 
@@ -49,22 +50,6 @@ His research interests include bio-signal processing, deep learning algorithms a
 - Yuli Sun Hariyani, **Heesang Eom**, Cheolsoo Park, "DA-CapNet: Dual Attention Deep Learning based on U-Net for Nailfold Capillary Segmentation", *IEEE Access*, vol. 8, pp. 10543-10553, 2020, SCIE
 
 - S. Han, W. Lee, **H. Eom**, J. Kim and C. Park, "Detection of Arrhythmia using 1D Convolution Neural Network with LSTM model", *IEIE Transactions on Smart Processing and Computing*, Vol.9 No.04, 2020
-
-### Conference Papers
-
-- **Heesang Eom**, Dongseok Lee, Seungwoo Han, Kwangsuk Park and Cheolsoo Park, "Blood Pressure Estimation Using Deep Learning based on Attention Mechanism", u-Healthcare 2019, Kookmin University, Dec. 2019
-
-- Seungwoo Han, **Heesang Eom**, Cheolsoo Park, "End-to-End 딥러닝 기반 부정맥 분류 연구", KOSOMBE, Incheon, Nov. 7-9, 2019
-
-- **엄희상**, 한승우, 이동석, 박광석, 박철수, "Attention 메커니즘을 활용한 CNN-BiGRU 기반 수축기 혈압 추정", 대한의용생체공학회 추계학술대회, 인천, Nov. 2019
-
-- **H. Eom**, S. Han, D. Lee, K. Park and C. Park, "Blood Pressure Estimation Based on Convolutional Neural Network using ECG, PPG and BCG", International Engineering in Medicine and Biology Conference, Berlin, Germany, Jul. 2019
-
-- 한승우, **엄희상**, 조태흠, 박광석, 박철수, "심전도와 맥파를 이용한 강화학습 기반 혈압 추정 알고리즘", 대한의용생체공학회 춘계학술대회, 여수, May 2019
-
-- **엄희상**, 한승우, 박광석, 이동석, 박철수, "심전도, 맥파 및 심탄도를 이용한 딥러닝 기반 혈압 추정", 대한의용생체공학회 춘계학술대회, 여수, May 2019
-
-- 한승우, **엄희상**, 박광석, 이동석, 박철수, "심전도와 맥파를 이용한 딥러닝 기반 실시간 혈압 추정 연구", 한국통신학회 동계종합학술발표회, 평창, Jan. 2019
 
 ## Patents
 

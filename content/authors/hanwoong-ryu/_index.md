@@ -10,12 +10,12 @@ last_name: Ryu
 superuser: false
 
 # Role/position
-role: Researcher, Selectstar
+role: Researcher, Suresoft Technologies Inc.
 
 # Organizations/Affiliations
 organizations:
-  - name: Selectstar
-    url: 'https://www.selectstar.ai'
+  - name: Suresoft Technologies Inc.
+    url: 'https://www.suresofttech.com'
 
 # Short bio (displayed in user profile at end of posts)
 bio: His research interests include LLM, deep learning, computer vision, and time series.
@@ -53,9 +53,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 23
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Hanwoong Ryu received his BS and MS degrees in Computer Engineering from Kwangwoon University in Seoul, South Korea.
@@ -71,29 +73,6 @@ His research interests include Large Language Models (LLM), deep learning, compu
 
 - **Design of Metaverse Rental Car Price Prediction Method Through Machine Learning Techniques**  
   Jiseok Yang, Hanwoong Ryu, Jiwoon Lee, Jihong Lee, Cheolsoo Park, *Journal of Broadcast Engineering*, Jan 2024
-
-### Conference Papers
-
-- **Zero-shot Human Action Recognition Using Multimodal Large Language Models**  
-  류한웅, 원지환, 양지석, 박윤태, 양근보, 박철수, 대한전자공학회 추계학술대회, Nov 2024
-
-- **Transformer based on Spiking Neural Network for EMG Signal Classification**  
-  박윤태, 이지운, 원지환, 이정환, 류한웅, 박종길, 박철수, 대한전자공학회 추계학술대회, Nov 2024
-
-- **Can We Edit the Eyes? A Comparative Analysis of Knowledge Editing in Vision and Language Modules of Multimodal Models**  
-  성진, 류한웅, 박지윤, 권오욱, 한국인공지능학회 추계학술대회, Nov 2024
-
-- **Look and Edit: Visual-Guided Multimodal Editing with Retrieval-Enhanced Counterfactuals**  
-  성진, 박지윤, 류한웅, 임수종, 한국인공지능학회 추계학술대회, Nov 2024
-
-- **A Reinforcement Learning Approach to Determine the Calibration Interval of a Blood Pressure Prediction Model**  
-  윤성민, 이지홍, 류한웅, 박철수, 대한의용생체공학회 추계학술대회, Nov 2023
-
-- **Optimization and Advancement of 1D Convolution-based RepVGG Model for Efficient Blood Pressure Prediction**  
-  류한웅, 윤성민, 박철수, 대한의용생체공학회 추계학술대회, Nov 2023
-
-- **Metaverse: Research Based Prediction Model of the Car Price in view of the Machine-learning Method**  
-  Jiseok Yang, Jinseok Kim, Jiwoon Lee, Hanwoong Ryu, et al., IEEE MetaCom 2023, June 2023
 
 ## Awards
 

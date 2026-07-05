@@ -29,20 +29,15 @@ social:
   link: mailto:swj20000@gmail.com
 email: swj20000@gmail.com
 highlight_name: true
+list_order: 5
 user_groups:
-- Alumni
+- MS
 ---
 Woojoon Seok is currently a researcher at Samsung DS (since 2021). Previously, he was a researcher at KITECH (2020).
 
 He received a BS degree in robotics from Kwangwoon University in Seoul, South Korea. His research interests include biomedical signal processing and machine learning algorithms.
 
 ## Publications
-
-### Conference Papers
-
-- **W. Seok**, C. Park, "Pattern Recognition of Human Arm Movement Using Deep Reinforcement Learning", ICOIN (International Conference on Information Networking), Chiang Mai, Thailand, January 10-12, 2018
-
-- **석우준**, 박철수, "강화학습 알고리즘을 통한 팔 동작 패턴 인식", 추계의용생체공학회, 전주, 대한민국, 2017
 
 ## Patents
 

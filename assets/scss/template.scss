@@ -1080,6 +1080,15 @@ canvas#neuralNetwork {
     color: $bcml-color-muted !important;
   }
 
+  // "Alumni" sub-headings (PhD / MS / Research) sit under the shared "Alumni" title
+  .people-alumni-subheading {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: $bcml-color-muted !important;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
   .people-person .network-icon a,
   .people-person .network-icon i {
     color: $bcml-color-text !important;

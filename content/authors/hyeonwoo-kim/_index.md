@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: Undergraduate Intern
+role: MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.kw.ac.kr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate research intern at BCML Lab.
+bio: MS student at BCML Lab.
 
 interests:
   - Computer Vision 
@@ -30,7 +30,10 @@ interests:
 
 education:
   courses:
-    - course: BS in Computer Engineering (Current)
+    - course: MS in Computer Engineering (Current)
+      institution: Kwangwoon University
+      year: 
+    - course: BS in Computer Engineering
       institution: Kwangwoon University
       year: 
 
@@ -43,9 +46,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 7
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Interns
+  - MS Students
 ---
 
-Hyeonwoo Kim is currently a senior undergraduate student in the Department of Computer Engineering at Kwangwoon University, Seoul, South Korea. His research interests include Computer Vision, Deep Learning, and AI for Healthcare. Recently, he has been focusing on Human Activity Recognition (HAR) systems that prioritize privacy protection. He is also conducting research on improving model performance in data-sparse environments through data augmentation and utilizing synthetic data generated from simulations to address real-world data limitations.
+Hyeonwoo Kim is currently pursuing his MS degree in the Department of Computer Engineering at Kwangwoon University, Seoul, South Korea. His research interests include Computer Vision, Deep Learning, and AI for Healthcare. Recently, he has been focusing on Human Activity Recognition (HAR) systems that prioritize privacy protection. He is also conducting research on improving model performance in data-sparse environments through data augmentation and utilizing synthetic data generated from simulations to address real-world data limitations.

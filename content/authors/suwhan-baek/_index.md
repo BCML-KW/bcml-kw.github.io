@@ -53,9 +53,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 13
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Suwhan Baek is currently a researcher at Posco Holdings. He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
@@ -89,12 +91,6 @@ His research interests include Medical AI and Auto ML. He is also attracted by r
 - H Eom, J Roh, YS Hariyani, **S Baek**, S Lee, S Kim, C Park, "Deep learning-based optimal smart shoes sensor selection for energy expenditure and heart rate estimation", *Sensors*, 21 (21), 7058, 2021
 
 - **S Baek**, H Eom, YS Hariyani, G Kim, J Roh, S Kim, C Park, "Deep learning based heart rate estimation using smart shoes sensor", *2020 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)*, 1-4, 2020
-
-### Conference Papers
-
-- **Baek, Suwhan**, et al., "Deep Learning Based Heart Rate Estimation Using Smart Shoes Sensor", 2020 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), IEEE, 2020
-
-- **S. Baek**, S. Han, J. Lee, W. Lee, C. Park, "Arrhythmia Classification Using 1D-2D Conversion", u-Healthcare 2019, Kookmin University, Dec. 2019
 
 ## Patents
 

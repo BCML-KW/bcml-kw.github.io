@@ -52,9 +52,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 20
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Jihong Lee received her BS and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
@@ -67,24 +69,6 @@ Her research interests include biomedical signal processing, reinforcement learn
 
 - **Design of Metaverse Rental Car Price Prediction Method Through Machine Learning Techniques**  
   Jiseok Yang, Hanwoong Ryu, Jiwoon Lee, Jihong Lee, Cheolsoo Park, *Journal of Broadcast Engineering*, Jan 2024
-
-### Conference Papers
-
-- **Impact of Segmentation Improvement on White Blood Cell Counting Accuracy**  
-  이지홍, 강영신, 김민지, 원지환, 권동욱, 박철수, International Biomedical Engineering Conference 2024, Nov 2024
-
-- **Homographic adaptation 적용을 통한 손톱 주름 모세혈관의 의미론적 분할 성능 향상**  
-  이지홍, 강영신, 양지석, 이현태, 유성기, 박철수, 대한전자공학회 하계학술대회, June 2024
-
-- **A Reinforcement Learning Approach to Determine the Calibration Interval of a Blood Pressure Prediction Model**  
-- **A Reinforcement Learning Approach to Determine the Calibration Interval of a Blood Pressure Prediction Model**  
-  윤성민, 이지홍, 류한웅, 박철수, 대한의용생체공학회 추계학술대회, Nov 2023
-
-- **혈압추정모델의 성능향상을 위한 강화학습 모델**  
-  이지홍, 박철수, 대한의용생체공학회 춘계학술대회, May 2023
-
-- **웨어러블 기기에서의 혈압 추정의 정확도 유지를 위한 강화학습 기반 재보정 스케줄링 전략**  
-  이지홍, 류한웅, 원지환, 이현태, 박철수, 대한전자공학회 하계종합학술대회, June 2024
 
 ## Awards
 

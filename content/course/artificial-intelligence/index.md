@@ -6,16 +6,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-# Custom links (optional)
-links:
-  - icon: file-pdf
-    icon_pack: fas
-    name: Lecture Slides
-    url: 'https://github.com/BCML-KW/bcml.github.io/tree/main/content/course/artificial-intelligence'
-#  - icon: file-code
-#    icon_pack: fas
-#    name: Code Examples
-#    url: '#'
 tags:
   - AI
   - Intelligent Systems
@@ -32,32 +22,17 @@ categories:
 - 선형대수학, 확률 및 통계 (권장 선수과목)
 - 후수과목: 머신러닝 (심화)
 
-## Weekly Schedule
+## Lecture Slides
 
-1. AI 소개 및 역사, 4차 산업혁명에서의 역할
-2. 전통적 특성 추출(1): 통계/신호 기반 기법
-3. 딥러닝 기반 특성 추출(2)
-4. 예측 모델(1): 전통 ARMA 모델
-5. 예측 모델(1)-2: ARMA 심화 및 응용
-6. 예측 모델(2): 딥러닝 기반 시계열/예측
-7. 강화학습(1): 기본 개념과 MDP
-8. 중간고사
-9. 강화학습(2): 정책/가치 기반 방법
-10. 강화학습(3): 함수 근사와 심화 기법
-11. 강화학습(4): 최신 사례와 실습
-12. 결정 트리(1): 분할 기준과 일반화
-13. 결정 트리(2): 앙상블·실습
-14. 히든 마르코프 모델 및 확률 기반 추론
-15. 기말고사 및 필요 시 보강
-
-결강 발생 시 15주차 보강·16주차 시험으로 조정하며, 일정은 KLAS 공지로 확정합니다.
-
-## Course Materials & Communication
-
-- 강의 슬라이드, 실습 노트, 코드 템플릿, 읽기 자료를 이 페이지와 KLAS에 병행 게시
-- MATLAB/Python 예제, Kaggle/공개 데이터셋을 활용한 과제
-- 수업 관련 문의는 교수·조교 이메일로 연락하며, 영어 발표/보고서를 50% 비중으로 요구할 수 있습니다.
-
-## Accessibility & Policies
-
-장애학생은 장애학생지원실과 연계해 좌석 배정, 시험 조정, 대체 자료 등을 지원받을 수 있습니다. 수업·평가 방식 변경 시 즉시 공지하며, 모든 학생은 학칙 제55조(출석의무)를 준수해야 합니다.
+- [Chapter 1 Intro(2022).zip](lecture-slides/Chapter-1-Intro%282022%29.zip)
+- [Ch2 Principal Component Analysis(2022).zip](lecture-slides/Ch2-Principal-Component-Analysis%282022%29.zip)
+- [Ch3 Neural Networks(2022).zip](lecture-slides/Ch3-Neural-Networks%282022%29.zip)
+- [Ch4 1 Introduction to Time Series Analysis(2022).zip](lecture-slides/Ch4-1-Introduction-to-Time-Series-Analysis%282022%29.zip)
+- [Ch4 ARMA Model(2022).zip](lecture-slides/Ch4-ARMA-Model%282022%29.zip)
+- [Boosting Bagging and Randomforest s(2022).zip](lecture-slides/Boosting-Bagging-and-Randomforest_s%282022%29.zip)
+- [Decision Tree(2022).zip](lecture-slides/Decision-Tree%282022%29.zip)
+- [Recurrent Neural Network(2022).zip](lecture-slides/Recurrent-Neural-Network%282022%29.zip)
+- [Reinforcement Learning part I II(2022).zip](lecture-slides/Reinforcement-Learning_part-I_II%282022%29.zip)
+- [Reinforcement Learning part III IV(2022).zip](lecture-slides/Reinforcement-Learning_part-III_IV%282022%29.zip)
+- [Reinforcement Learning Slides(2022).zip](lecture-slides/Reinforcement-Learning-Slides%282022%29.zip)
+- [Hidden Markov Models(2023).zip](lecture-slides/Hidden-Markov-Models%282023%29.zip)

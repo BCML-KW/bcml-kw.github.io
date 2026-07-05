@@ -47,6 +47,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 6
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - MS Students

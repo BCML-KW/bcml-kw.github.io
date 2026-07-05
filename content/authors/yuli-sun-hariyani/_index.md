@@ -35,8 +35,9 @@ social:
   link: https://scholar.google.com/citations?user=Dc6wn9AAAAAJ
 email: yulisun@tass.telkomuniversity.ac.id
 highlight_name: true
+list_order: 2
 user_groups:
-- Alumni
+- PhD
 ---
 Yuli Sun Hariyani received her PhD degree in Computer Engineering Department at Kwangwoon University, South Korea. She received her BS and MS degree from Telkom University, Indonesia.
 
@@ -60,16 +61,3 @@ Her research interests include image processing and biomedical image processing,
 
 - RR Adiputra, S Hadiyoso, **YS Hariyani**, "Internet of Things: Low Cost and Wearable SpO2 Device for Health Monitoring", *International Journal of Electrical and Computer Engineering*, Vol. 8, Issue. 2, (Apr 2018): 939-945, IF=0.68
 
-### Conference Papers
-
-- Suwhan Baek, Heesang Eom, **Yuli-Sun Hariyani**, Gwangho Kim, Jongryum Roh, Sayup Kim, Cheolsoo Park, "Deep Learning Based Heart Rate Estimation Using Smart Shoes Sensor", 2020 IEEE International Conference on Consumer Electronics – Asia (ICCE-Asia), 2020, pp. 1-4
-
-- **Yuli Sun Hariyani**, Heesang Eom, Cheolsoo Park, "Dual Attention-Based Deep Learning Method for Nailfold Capillary Segmentation", International Engineering in Medicine and Biology Conference, Berlin, Germany, Jul. 2019
-
-- **Yuli Sun Hariyani**, 엄희상, 박철수, "YU-NET: An Improved Deep Learning method for Nailfold Capillary Segmentation", 대한의용생체공학회 춘계학술대회, 여수, May 2019
-
-- U Sunarya, **Y Hariyani**, D Sim, C. Park, "A Spiking Neural Network of Digit Classification Using Prior Probability as Supervised Learning Model Representative", 한국통신학회, Jan. 23-25, 2019, 평창
-
-- Byeon-Ghwi Kim, **Yuli Sun Hariyani**, Cheolsoo Park, "Automated Capillary Image Segmentation using Deep Learning", Ubiquitous Healthcare 2018 in Kyoto, International Science Innovation Building, Kyoto University, Dec. 11-13, 2018
-
-- **Yuli Sun Hariyani**, C. Park, "Nailfold Capillary Segmentation using Deep Learning", SMIT2018-IBEC2018 Joint Conference in Grand Walkerhill Hotel, Seoul, Korea, November 8-10, 2018

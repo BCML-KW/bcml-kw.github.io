@@ -48,9 +48,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 15
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Saehim Kwon is currently a researcher at EMMA. He received his BS degree in Software Engineering from Gangneung-Wonju National University in Wonju, South Korea.

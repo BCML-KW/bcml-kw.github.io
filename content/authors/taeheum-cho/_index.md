@@ -28,8 +28,9 @@ social:
   link: mailto:taeheumcho89@gmail.com
 email: taeheumcho89@gmail.com
 highlight_name: true
+list_order: 4
 user_groups:
-- Alumni
+- MS
 ---
 Taeheum Cho is currently a researcher at Modnbio. He received his BA degree in Industrial and Organizational Psychology from Kwangwoon University in Seoul, South Korea.
 
@@ -37,6 +38,3 @@ His research interests include Internet of Things (IoT) and machine learning alg
 
 ## Publications
 
-### Conference Papers
-
-- **T. Cho**, H. Lee, W. Seok, C. Park, "Classification of Motor Imagery Tasks Through Optimal Principal Components Selected Using Reinforcement Learning", Ubiquitous Healthcare 2018 in Kyoto, International Science Innovation Building, Kyoto University, Dec. 11-13, 2018

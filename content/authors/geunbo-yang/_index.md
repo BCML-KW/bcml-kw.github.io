@@ -51,9 +51,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 17
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Geunbo Yang (양근보) is currently a researcher at KG Steel. He received his BS and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
@@ -77,16 +79,6 @@ His research interests include machine learning algorithms and spiking neural ne
 - Y Park, U Sunarya, **G Yang**, C Lee, J Baek, S Baek, C Park, "Classification using a Spiking Neural Network: A Review", *IEIE Transaction on Smart Processing & Computing*, 2023, 64-71
 
 - J Kim, **G Yang**, J Kim, S Lee, KK Kim, C Park, "Efficiently Updating ECG-Based Biometric Authentication Based on Incremental Learning", *MDPI Sensors*, 2021, 21, 1568, IF=3.735
-
-### Conference Papers
-
-- Youngshin Kang, **Geunbo Yang**, Cheolsoo Park, "Event-based White Blood Cell Classification using Convolutional Spiking Neural Networks", 2024 IEEE International Conference on Metaverse Computing, Networking, and Applications (MetaCom), Aug. 2024
-
-- **양근보**, 강영신, 박철수, "Supervise-based Random Sampled Spike Encoding Algorithm for Image Classification in Deep Spiking Neural Networks", 대한의용생체공학회 춘계학술대회, May 2023, 244-245
-
-- **양근보**, 박철수, "Implementation of spiking neural network Using dynamic learning of Inhibition neurons", 대한전자공학회 학술대회, Jun. 2022, 879-881
-
-- 이충섭, **양근보**, 박철수, "ECG-Based Heart Rate Estimation Using SVR with Spiking Neural Network", 대한전자공학회 학술대회, Jun. 2022, 852-855
 
 ## Patents
 

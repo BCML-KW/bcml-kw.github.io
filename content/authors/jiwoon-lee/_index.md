@@ -56,6 +56,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 1
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - MS Students
@@ -90,17 +92,6 @@ His research interests include neuromorphic computing, brain-computer interfaces
 ### Journal Articles (KCI)
 - **Design of Metaverse Rental Car Price Prediction Method Through Machine Learning Techniques**  
   Jiseok Yang, Hanwoong Ryu, Jiwoon Lee, Jihong Lee, Cheolsoo Park, *Journal of Broadcast Engineering* 29, no. 1, Feb 2024
-
-### Conference Papers
-
-- **Restoration of Time-Series Medical Data with Diffusion Model**  
-  J. Lee, C. Park, IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), Oct 2022
-
-- **Metaverse: Research Based Prediction Model of the Car Price in view of the Machine-learning Method**  
-  Jiseok Yang, Jinseok Kim, Jiwoon Lee, et al., IEEE MetaCom 2023, Jun 2023
-
-- **Denoising Diffusion Probabilistic Model based Time-Series ECG data Interpolation**
-  이지운, 박철수, 대한의용생체공학회 추계학술대회, Nov 2022
 
 ## Honors and Awards
 

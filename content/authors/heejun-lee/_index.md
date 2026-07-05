@@ -31,8 +31,9 @@ social:
   link: mailto:lhjun20@gmail.com
 email: lhjun20@gmail.com
 highlight_name: true
+list_order: 3
 user_groups:
-- Alumni
+- MS
 ---
 Heejun Lee is currently a PhD student at the University of Groningen (Rijksuniversiteit Groningen, RUG), Netherlands. Previously, he was a researcher at LG.
 
@@ -45,18 +46,6 @@ He received a BS and MS degree in computer engineering from Kwangwoon University
 - Y. Kim, J. You, **H. Lee**, S.M. Lee, and C. Park, "Correlation Assisted Strong Uncorrelating Transform Complex Common Spatial Patterns for Spatially Distant Channel Data", *Computational Intelligence and Neuroscience*, 2017
 
 - J. Kwon*, **H. Lee***, J. Shin, W. Chung, M. Park & C. Park, "Lexical Planning in L2 Sentence Production: Evidence from ERPs", *Journal of Cognitive Science*, vol 18-4, p367-389 (23pages), 2018 (*First Author)
-
-### Conference Papers
-
-- **H Lee**, C Park, "딥러닝 뇌파 분석을 통한 멀티미디어 강의 시청 집중도 분류", 대한의용생체공학회 춘계학술대회, 충주, May 2018
-
-- **H. Lee**, Y. Kim, C. Park, "Classification of Human Attention to Multimedia Lecture", ICOIN (International Conference on Information Networking), Chiang Mai, Thailand, 2018
-
-- **H. Lee**, B.S Hwang, Y. Kim, C. Park, "Correlation Between Empathy and Experience in Human Emotion from EEG Signal", U-healthcare, Seoul, Korea, 2017
-
-- **이희준**, 김종훈, 정민우, 이 진, 임영범, 박철수, "멀티미디어 강의 중 집중력이 뇌파에 미치는 영향", KOSOMBE (Korea Society of Medical & Biological Engineering), Jeonju, Korea, 2017
-
-- **H. Lee**, M. S. Yeo, H. J. Lee, D. S. Lee, J. H. Jang, J. W. Yang, C. Park, "Effects of visual and auditory delta band stimuli on sleep", IBEC 2016, Seoul, Korea, 2016
 
 ## Patents
 

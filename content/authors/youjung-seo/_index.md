@@ -29,8 +29,9 @@ social:
   link: mailto:youjungseo0317@gmail.com
 email: youjungseo0317@gmail.com
 highlight_name: true
+list_order: 11
 user_groups:
-- Alumni
+- MS
 ---
 Youjung Seo is currently a researcher at KLA. She received her BS degree in psychology from Chung-Ang University, South Korea.
 
@@ -41,16 +42,6 @@ Her research interests include biomedical signal processing, e-health and machin
 ### Journal Articles
 
 - **Seo, Y.**, Lee, J., Sunarya, U., Lee, K., Park, C., "Continuous Blood Pressure Estimation using a 1D Convolutional Neural Network and an Attention Mechanism", *IEIE Transactions on Smart Processing & Computing*, 2022, SCIE, IF=0.83
-
-### Conference Papers
-
-- **서유정**, 이원규, 손량희, 박철수, "PPG, ECG 신호를 사용한 머신러닝 기반 혈압 추정 및 보정 알고리즘", 대한전자공학회 하계종합학술대회, Jun. 30-Jul. 2, 2021
-
-- **서유정**, 손량희, 박철수, "머신러닝 기반 혈압 보정 알고리즘", 대한의용생체공학회 온라인 춘계학술대회, Online, May 12-14, 2021
-
-- **서유정**, 이원규, 손량희, 박철수, "웨어러블 디바이스를 이용한 PTT 혈압 예측을 위한 머신러닝 알고리즘 보정 방법", 대한전자공학회 추계학술대회, 광주, Nov. 27, 2020
-
-- **서유정**, 이원규, 고건영, 김대현, 조현우, 최재혁, 유재원, 손량희, 박철수, "Ballistocardiogram을 이용한 딥러닝 기반 혈압 추정", 대한전자공학회 신호처리합동학술대회, Online, Sep. 24-25, 2020
 
 ## Patents
 

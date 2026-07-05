@@ -31,8 +31,9 @@ social:
   link: https://scholar.google.com/citations?user=wEzf8pwAAAAJ
 email: minsooyeo119112@gmail.com
 highlight_name: true
+list_order: 6
 user_groups:
-- Alumni
+- MS
 ---
 Minsoo Yeo is currently a researcher at TaeWoong Medical Digital Healthcare Division. He received a BS degree in biomedical engineering from Kwangwoon University.
 
@@ -43,20 +44,6 @@ His research interests include biomedical signal processing and embedded softwar
 ### Journal Articles
 
 - **M. Yeo**, Y. Koo, C. Park, "Automatic detection of sleep stages based on accelerometer signals from a wristband", *IEEK Transactions on Smart Processing and Computing*, Korea, 2016
-
-### Conference Papers
-
-- **M Yeo**, Y Koo, C Park, "손목 가속도 센서와 머신러닝 알고리즘을 이용한 자동 수면 패턴 분류", 2018 대한의용생체공학회 춘계학술대회, 충주, May 2018
-
-- **M. Yeo**, Y. Koo, Y. Yoon, T. Hwang, J. Ryu, J. Song, C. Park, "Flow-based Malware Detection Using Convolutional Neural Network", The 32nd International ICOIN (Conference on Information Networking), Chiang Mai, Thailand, 2018
-
-- **여민수**, 구용서, 박철수, "Convolutional Neural Network를 이용한 IoT기기의 주관적 수면데이터의 패턴 분석", 제 52회 대한생체의공학회 추계학술대회, 전주, 2017
-
-- **여민수**, 류지우, 박철수, "손목 팔찌의 가속도 자료를 사용한 자동 수면단계 감지 방법", 제 24회 한국 반도체 학술대회, 강원도, 2017
-
-- Heejun Lee, **Minsoo Yeo**, Youngjoo Kim, Hongjoo Lee, Junhee Jang, Jinwoo Yang, and Cheolsoo Park, "Effects of Visual and Auditory Delta Band Stimuli on Sleep", IBEC (International Biomedical Engineering), Korea University, 2016
-
-- **M. Yeo**, W. Park, D. Choi, D. Kim, S. Yoon, J. Ryu, Y. Koo and C. Park, "Automated Sleep Scoring Using Accelerometer Data from Wrist band", IBEC (International Biomedical Engineering), Korea University, 2016
 
 ## Patents
 

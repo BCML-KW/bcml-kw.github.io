@@ -35,8 +35,9 @@ social:
   link: https://scholar.google.com/citations?user=CaaCrhMAAAAJ
 email: lyoungjookiml@gmail.com
 highlight_name: true
+list_order: 2
 user_groups:
-- Alumni
+- MS
 ---
 Youngjoo Kim is currently employed at ASML's headquarters in the Netherlands. Previously, she was a PhD student in the Scientific Visualization and Computer Graphics (SVCG) group, within the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands.
 
@@ -57,28 +58,6 @@ She received her BS and MS degree in computer engineering from Kwangwoon Univers
 - K.B. Lee, K.K. Kim, J. Song, J. Ryu, **Y. Kim**, C. Park, "Estimation of Brain Connectivity during Motor Imagery Tasks using Noise-Assisted Multivariate Empirical Mode Decomposition", *JEET*, vol. 11, 2016.
 
 - **Y. Kim** and C. Park, "Strong Uncorrelated Transform Applied to Spatially Distant Channel EEG Data", *IEIE Transactions on Smart Processing and Computing*, vol. 4, pp. 97-102, Apr. 2015.
-
-### Selected Conference Papers
-
-- H. Lee, **Y. Kim**, and C. Park, "Classification of Human Attention to Multimedia Lecture", 32nd International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan. 2018.
-
-- W. Seok, **Y. Kim**, and C. Park, "Pattern Recognition of Human Arm Movement Using Deep Reinforcement Learning", 32nd International Conference on Information Networking (ICOIN), Chiang Mai, Thailand, Jan. 2018.
-
-- H. Lee, B.S. Hwang, **Y. Kim**, and C. Park, "Correlation Between Empathy and Experience in Human Emotion from EEG Signal", 2017 u-Healthcare international conference, Seoul, Korea, Dec. 2017.
-
-- **Y. Kim** and C. Park, "Feature Extraction Using Correlation Preserving Transform Based on Complex Common Spatial Patterns", 2017 Korean Conference on Semiconductors (KCS), Gangwon-do, Korea, 2017.
-
-- J. Ryu, **Y. Kim**, C. Park, et al., "ECG-based Drowsiness level detection using Hidden Markov Model", IBEC 2016, Seoul, Korea, 2016.
-
-- H. Lee, M. S. Yeo, **Y. Kim**, C. Park, et al., "Effects of visual and auditory delta band stimuli on sleep", IBEC 2016, Seoul, Korea, 2016.
-
-- **Y. Kim**, J. Ryu, C. Park, et al., "Stress Measurement Using the Accelerometer", 2016 International Biomedical Engineering Conference (IBEC), Seoul, Korea, 2016.
-
-- **Y. Kim**, C. Park, "Motor Imagery EEG Classification Using Correlation Preserving Complex Common Spatial Patterns Algorithm", u-Healthcare, Osaka, Japan, 2015
-
-- **Y. Kim**, J. Ryu and C. Park, "Classification of Motor Imagery EEG using Strong Uncorrelated Transform Complex Common Spatial Patterns", IBEC 2014, Gwangju, Korea, 2014
-
-- J. Ryu, **Y. Kim** and C. Park, "Classification of Term and Preterm Labor Using Multivariate Empirical Mode Decomposition of EHG Signal", IBEC 2014, Gwangju, Korea, 2014
 
 ## Patents
 

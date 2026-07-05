@@ -52,9 +52,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 22
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Dongwook Kwon received his BS degree in Electronics & Communications Engineering and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
@@ -62,17 +64,6 @@ Dongwook Kwon received his BS degree in Electronics & Communications Engineering
 His research interests include deep learning, anomaly detection algorithms, and computer vision, with a focus on medical device security and industrial cyber-physical systems.
 
 ## Publications
-
-### Conference Papers
-
-- **Enhancing Medical Device Security with GNN-GRU Anomaly Detection Model**  
-  D. Kwon, Y. Kang, and C. Park, The Korean Society of Medical & Biological Engineering, Nov 2023
-
-- **Real-Time Anomaly Detection in Industrial Cyber-Physical Systems Using Deep Learning based Bidirectional GRU**  
-  D. Kwon, Y. Kang, J. Yang, and C. Park, IEIE Artificial Intelligence and Signal Processing, Sep 2023, pp. 239-241
-
-- **Analysis of Reconstruction-Based Multivariate ECG Time-Series Data for Arrhythmia Diagnosis**  
-  D. Kwon, Y. Kang, and C. Park, The Korean Society of Medical & Biological Engineering, Nov 2022, pp. 425-426
 
 ## Awards
 

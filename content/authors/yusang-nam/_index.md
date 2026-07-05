@@ -48,9 +48,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 19
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Yusang Nam received his BS degree in Electrical Engineering from Kwangwoon University in Seoul, South Korea and his MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
@@ -62,14 +64,6 @@ His research interests include computer vision and reinforcement learning, with 
 ### Journal Articles
 
 - **Yusang Nam†**, Junghwan Lee†, Jihong Lee†, Hyuntae Lee, Dongwook Kwon, Minsoo Yeo, Sayup Kim, Ryanghee Sohn and Cheolsoo Park, "Designing a Remote Photoplethymography-Based Heart Rate Estimation Algorithm During a Treadmill Exercise", *Electronics*, Feb. 2025 (†Co-first author)
-
-### Conference Papers
-
-- 이정환, **남유상**, 박철수, "HR Prediction using Quaternion Convolutional Neural Networks from Video", 대한생체의공학회 춘계학술대회, May 2022
-
-- 이정환, **남유상**, 박철수, "Prediction of Heart Rate and SpO2 in Facial Videos using Quaternion-based Convolutional Neural Networks", 대한생체의공학회 추계학술대회, Oct. 2022
-
-- **남유상**, 이정환, 권새힘, 이현태, 손량희, 박철수, "Human emotion recognition through remote photoplethymogram", 대한생체의공학회 춘계학술대회, Apr. 2024
 
 ## Awards
 

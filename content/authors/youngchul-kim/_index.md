@@ -47,9 +47,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 1
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - Research
 ---
 
 Youngchul Kim is currently the CEO of PAS (www.pas07.com). He received his BS and MS degree in computer engineering from Kwangwoon University in Seoul, South Korea, completing his MS in 2019.

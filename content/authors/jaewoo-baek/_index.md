@@ -52,9 +52,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 14
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Jaewoo Baek (백재우) is currently a researcher at Hanwha Systems. He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
@@ -70,12 +72,6 @@ His research interests include biological signal processing, machine learning, d
 - **Jaewoo Baek**, Choongseop Lee, Hyunsoo Yu, Suwhan Baek, Seokmin Lee, Seungmin Lee, and Cheolsoo Park, "Automatic Sleep Scoring Using Intrinsic Mode based on Interpretable Deep Neural Networks", *IEEE Access*, March 30, 2022, IF=3.367
 
 - **Jaewoo Baek**, Suwan Baek, HyunSu Yu, JungHwan Lee, and Cheolsoo Park, "End-to-end Automatic Sleep Staging Algorithm using Convolution Neural Network and Bidirectional LSTM", *IEIE Transactions on Smart Processing & Computing*, Dec. 2021, 464-468, IF=0.83
-
-### Conference Papers
-
-- Suwhan Baek, **Jaewu Baek**, Hyunsoo Yu, Cheolsoo Park, "Decision Support System for Estimating Sleep Stages Using Single Channel EEG with Attention Mechanism", Summer Annual Conference of IEIE, Jeju, Jun. 2021
-
-- **백재우**, 이석민, 이영준, 이호찬, 박철수, "EEG 단채널 기반 Inception 네트워크와 순환 신경망을 결합한 자동 수면 단계 분류기", 대한전자공학회 하계학술대회, 제주, Jun. 2021
 
 ## Awards
 

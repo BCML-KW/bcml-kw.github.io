@@ -51,9 +51,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 16
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Choongseop Lee (이충섭) is currently a researcher at LG PRI (LG Platform Research Institute). He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
@@ -77,14 +79,6 @@ His research interests include machine learning and computational neuroscience, 
 - S Baek, J Baek, H Yu, **C Lee**, C Park, "Explainable sleep staging Algorithm using a single-channel electroencephalogram", *IEIE Transactions on Smart Processing & Computing*, 11 (1), 8-13, 2022
 
 - **이충섭**, 이원규, 한승우, 박철수, "스마트 헬스 시티를 위한 ECG 기반 부정맥 감지 SNN 알고리즘", *한국통신학회논문지*, 45 (12), 2193-2201, 2020
-
-### Conference Papers
-
-- **C Lee**, T Woinoski, IV Bajić, "Decomposed Key-Point Detector for Swimming Pool Localization", 2023 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 2023
-
-- **이충섭**, 양근보, 박종길, 박철수, "SVR 을 이용한 ECG 기반 심박수 추정 Spiking Neural Network", 대한전자공학회 학술대회, 852-855, 2022
-
-- **이충섭**, 박철수, "시계열 데이터 분석을 위한 시간 인코딩 기반 SNN 연구", 대한전자공학회 학술대회, 1772-1774, 2021
 
 ## Patents
 

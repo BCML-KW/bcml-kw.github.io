@@ -29,8 +29,9 @@ social:
   link: mailto:leew1729@gmail.com
 email: leew1729@gmail.com
 highlight_name: true
+list_order: 8
 user_groups:
-- Alumni
+- MS
 ---
 Wongyu Lee is currently a researcher at FOUNT. He received his BS degree in Mathematics from University of Minnesota-Twin Cities in the U.S. with minor in Computer Science and Physics.
 
@@ -42,6 +43,3 @@ His research interests include machine learning algorithms, specifically spiking
 
 - S. Han, **W. Lee**, H. Eom, J. Kim and C. Park, "Detection of Arrhythmia using 1D Convolution Neural Network with LSTM model", *IEIE Transactions on Smart Processing and Computing*, Vol.9 No.04, 2020
 
-### Conference Papers
-
-- **이원규**, "Spiking Neural Network를 이용한 비지도 학습기반 MNIST data 분류"

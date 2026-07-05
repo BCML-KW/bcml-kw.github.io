@@ -38,8 +38,9 @@ social:
   link: https://scholar.google.com/citations?user=3fSHe4oAAAAJ
 email: unangsunarya2040@gmail.com
 highlight_name: true
+list_order: 1
 user_groups:
-- Alumni
+- PhD
 ---
 Unang Sunarya is currently a researcher at Telkom University, Indonesia. He received his PhD degree in Computer Engineering Department at Kwangwoon University, South Korea.
 
@@ -61,12 +62,3 @@ He received Diploma degree from Bandung State Polytechnic (POLBAN), BS and MS de
 
 - Prayogo, Y., Rizal, A., **Sunarya, U.**, "Finger vein recognition using perimeter and PCA", *International Journal of Tomography and Simulation*, 2016
 
-### Conference Papers
-
-- **U Sunarya**, Y S.H, T Cho, S Baek, S Kim, J Roh, C Park, "Three Classification Classes of Gait Type Using Step Segmentation", Engineering in Circadian Rhythm and Ubiquitous Healthcare (Uhealthcare), Kookmin University
-
-- **U Sunarya**, YS Hariyani, T Cho, YH Soo, S Kim, J Roh, C Park, "Gait Type Classification Using Support Vector Classification", Korea Society of Medical and Biological Engineering (Kosombe), Kookmin University
-
-- **U Sunarya**, YS Hariyani, D Sim, C Park, "A Spiking Neural Network of Digit Classification Using Prior Probability as Supervised Learning Model Representative", Korean Institute of Communications and Information Sciences (KICS)
-
-- Aini, F.R.Q., Jati, A.N., **Sunarya, U.**, "A study of Monte Carlo localization on robot operating system", 2016 International Conference on Information Technology Systems and Innovation, ICITSI 2016

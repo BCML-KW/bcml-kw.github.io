@@ -60,6 +60,8 @@ email: 'parkcheolsoo@kw.ac.kr'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 1
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - Professor

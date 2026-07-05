@@ -32,8 +32,9 @@ social:
   link: https://scholar.google.com/citations?user=C06wvpQAAAAJ
 email: jwryu1128@gmail.com
 highlight_name: true
+list_order: 1
 user_groups:
-- Alumni
+- MS
 ---
 Jiwoo Ryu completed his PhD at the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands, and is now an Embedded Software Engineer at Fugro Innovation & Technology B.V.
 
@@ -56,22 +57,6 @@ He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon 
 - J. Yoo, J. Nam, **J. Ryu** and D. Sim, "Rate control to reduce bitrate fluctuation on HEVC", *IEEK Transactions on Smart Processing & Computing*, vol. 1, pp. 152-160, Dec. 2012
 
 - **J.-W. Ryu**, S.-O. Lee, D.-G. Sim and J.-K. Han, "No-reference peak signal to noise ratio estimation based on generalized Gaussian modeling of transform coefficient distributions", *Optical Engineering*, vol. 51, no. 2, pp. 027401, Feb. 2012
-
-### Selected Conference Papers
-
-- **J. Ryu**, C. Park, "An Accurate Real-time ECG/PPG Peak Detection Using Viterbi Algorithm", 2017 Korean Conference on Semiconductors, HongCheon, Korea, Feb. 2017
-
-- **J. Ryu**, Y. Kim, K. Kim, O. Kwon, B. Lee, R. Heo, H. Oh and C. Park, "ECG-based Drowsiness Level Detection using Hidden Markov Model", 2016 International BioMedical Engineering Conference, Seoul, Korea, Nov. 2016
-
-- **J. Ryu** and C. Park, "Hidden Markov Model (HMM)-based Accelerometer Analysis for Sleep Detection", The Korea Society of Medical & Biological Engineering, Busan, Korea, March 2016
-
-- **J. Ryu** and C. Park, "EEG-based Emotion Recognition using Machine Learning Algorithms", u-Healthcare 2015, Osaka, Japan, Nov. 2015
-
-- Y. Kim, **J. Ryu** and C. Park, "Classification of Motor Imagery EEG using Strong Uncorrelated Transform Complex Common Spatial Patterns", IBEC 2014, Gwangju, Korea, Nov. 2014
-
-- **J. Ryu**, Y. Kim and C. Park, "Classification of Term and Preterm Labor Using Multivariate Empirical Mode Decomposition of EHG Signal", IBEC 2014, Gwangju, Korea, Nov. 2014
-
-- **J. Ryu**, S. Lee and D. Sim, "Perceptual Quality-based Transform Coefficient Suppression in High Efficiency Video Coding", 2014 International Workshop on Advanced Image Technology (IWAIT 2014), Bangkok, Thailand, Jan. 2014
 
 ## Patents
 

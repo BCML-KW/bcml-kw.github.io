@@ -48,9 +48,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+list_order: 21
+
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+  - MS
 ---
 
 Yuntae Park received his BS and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.

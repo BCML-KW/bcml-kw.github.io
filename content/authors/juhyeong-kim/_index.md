@@ -29,8 +29,9 @@ social:
   link: mailto:kjoohyu@gmail.com
 email: kjoohyu@gmail.com
 highlight_name: true
+list_order: 10
 user_groups:
-- Alumni
+- MS
 ---
 Juhyeong Kim is currently a researcher at WOORI BANK. Previously, he was a researcher at KETI (Korea Electronics Technology Institute) from August 2021 to June 2022.
 
@@ -42,8 +43,3 @@ He received his BS degree in Computer Engineering from Kwangwoon University in S
 
 - S. Han, W. Lee, H. Eom, **J. Kim** and C. Park, "Detection of Arrhythmia using 1D Convolution Neural Network with LSTM model", *IEIE Transactions on Smart Processing and Computing*, Vol.9 No.04, 2020
 
-### Conference Papers
-
-- **김주형**, 조태흠, 석우준, 박철수, "심전도 특징을 이용한 강화학습 개인 인증 시스템", 대한의용생체공학회 추계학술대회, 인천, Nov. 2019
-
-- **J.H Kim**, T.H Cho, W.J Seok, C.S Park, "Reinforcement Learning Personal Authentication System Using ECG Feature", u-Healthcare 2019, Kookmin University, Dec. 2019
