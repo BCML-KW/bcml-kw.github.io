@@ -55,10 +55,10 @@ list_order: 16
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Choongseop Lee (이충섭) is currently a researcher at LG PRI (LG Platform Research Institute). He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
+Choongseop Lee (이충섭) is currently a researcher at LG PRI (LG Platform Research Institute). He received his B.Eng. and M.S. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
 
 His research interests include machine learning and computational neuroscience, with a focus on spiking neural networks and neuromorphic computing.
 

@@ -10,15 +10,15 @@ sections:
       title: People
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      #   Available groups: Professor, PhD Students, MS Students, Researchers, Interns, PhD Alumni, MS Alumni, Research Alumni
+      #   Available groups: Professor, Ph. D. Students, M.S. Students, Researchers, Interns, Ph. D. (Alumni), M.S. (Alumni), Research (Alumni)
       user_groups:
           - Professor
           - Researchers
-          - PhD Students
-          - MS Students
+          - Ph. D. Students
+          - M.S. Students
           - Interns
-          - PhD
-          - MS
+          - Ph. D.
+          - M.S.
           - Research
       sort_by: Params.list_order
       sort_ascending: true

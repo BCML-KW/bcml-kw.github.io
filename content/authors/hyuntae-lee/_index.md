@@ -10,7 +10,7 @@ last_name: Lee
 superuser: false
 
 # Role/position
-role: MS Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: M.S. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -52,10 +52,10 @@ list_order: 3
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - M.S. Students
 ---
 
-Hyuntae Lee received his BS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea. He is currently pursuing the MS degree in computer engineering at Kwangwoon University.
+Hyuntae Lee received his BS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea. He is currently pursuing the M.S. degree in computer engineering at Kwangwoon University.
 
 His research interests include computer vision, machine learning algorithms, and remote photoplethysmography (rPPG) for non-contact vital sign monitoring.
 

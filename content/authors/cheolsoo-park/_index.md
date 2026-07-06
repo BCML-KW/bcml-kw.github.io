@@ -35,7 +35,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Adaptive Nonlinear Signal Processing
+    - course: Ph. D. in Adaptive Nonlinear Signal Processing
       institution: Imperial College London
       year: 2012
     - course: MSc in Biomedical Engineering

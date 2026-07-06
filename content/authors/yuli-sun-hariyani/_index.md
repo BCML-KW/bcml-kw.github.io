@@ -17,10 +17,10 @@ interests:
 - Smart Sensors
 education:
   courses:
-  - course: PhD in Computer Engineering
+  - course: Ph. D. in Computer Engineering
     institution: Kwangwoon University, South Korea
     year: null
-  - course: MS
+  - course: M.S.
     institution: Telkom University, Indonesia
     year: null
   - course: BS
@@ -37,9 +37,9 @@ email: yulisun@tass.telkomuniversity.ac.id
 highlight_name: true
 list_order: 2
 user_groups:
-- PhD
+- Ph. D.
 ---
-Yuli Sun Hariyani received her PhD degree in Computer Engineering Department at Kwangwoon University, South Korea. She received her BS and MS degree from Telkom University, Indonesia.
+Yuli Sun Hariyani received her Ph. D. degree in Computer Engineering Department at Kwangwoon University, South Korea. She received her BS and M.S. degree from Telkom University, Indonesia.
 
 Her research interests include image processing and biomedical image processing, with a focus on deep learning applications in medical imaging and nailfold capillary analysis.
 

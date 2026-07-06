@@ -56,10 +56,10 @@ list_order: 14
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Jaewoo Baek (백재우) is currently a researcher at Hanwha Systems. He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
+Jaewoo Baek (백재우) is currently a researcher at Hanwha Systems. He received his B.Eng. and M.S. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
 
 His research interests include biological signal processing, machine learning, deep learning and reinforcement learning, with a focus on sleep stage classification using EEG signals.
 

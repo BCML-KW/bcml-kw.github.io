@@ -10,7 +10,7 @@ last_name: Kang
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph. D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Engineering (Current)
+    - course: Ph. D. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -56,10 +56,10 @@ list_order: 1
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Students
+  - Ph. D. Students
 ---
 
-Young-shin Kang received the B.S. degree in computer engineering from Far East University, Chungbuk, South Korea. She is currently pursuing the PhD degree in computer engineering at Kwangwoon University, Seoul, South Korea. 
+Young-shin Kang received the B.S. degree in computer engineering from Far East University, Chungbuk, South Korea. She is currently pursuing the Ph. D. degree in computer engineering at Kwangwoon University, Seoul, South Korea. 
 
 Her research interests include lightweight deep learning algorithms, signal processing, and the Internet of Things.
 

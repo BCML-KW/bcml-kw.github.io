@@ -16,7 +16,7 @@ interests:
 - Reinforcement Learning
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BA in Industrial and Organizational Psychology
@@ -30,7 +30,7 @@ email: taeheumcho89@gmail.com
 highlight_name: true
 list_order: 4
 user_groups:
-- MS
+- M.S.
 ---
 Taeheum Cho is currently a researcher at Modnbio. He received his BA degree in Industrial and Organizational Psychology from Kwangwoon University in Seoul, South Korea.
 

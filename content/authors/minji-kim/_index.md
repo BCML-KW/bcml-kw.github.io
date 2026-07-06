@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: MS Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: M.S. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Electrical Engineering
@@ -52,10 +52,10 @@ list_order: 2
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - M.S. Students
 ---
 
-Minji Kim received her BS degree in Electrical Engineering from Kwangwoon University in Seoul, South Korea. She is currently pursuing the MS degree in computer engineering at Kwangwoon University.
+Minji Kim received her BS degree in Electrical Engineering from Kwangwoon University in Seoul, South Korea. She is currently pursuing the M.S. degree in computer engineering at Kwangwoon University.
 
 Her research interests include computer vision, machine learning algorithms, and drone detection systems.
 

@@ -17,7 +17,7 @@ interests:
 - Robotics
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Robotics
@@ -31,7 +31,7 @@ email: swj20000@gmail.com
 highlight_name: true
 list_order: 5
 user_groups:
-- MS
+- M.S.
 ---
 Woojoon Seok is currently a researcher at Samsung DS (since 2021). Previously, he was a researcher at KITECH (2020).
 

@@ -10,7 +10,7 @@ last_name: Yeon
 superuser: false
 
 # Role/position
-role: MS Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: M.S. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -51,9 +51,9 @@ list_order: 6
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - M.S. Students
 ---
 
-Sunwoo Yeon received his BS degree in Computer Information Engineering from Kwangwoon University in Seoul, South Korea. He is currently pursuing the MS degree in computer engineering at Kwangwoon University.
+Sunwoo Yeon received his BS degree in Computer Information Engineering from Kwangwoon University in Seoul, South Korea. He is currently pursuing the M.S. degree in computer engineering at Kwangwoon University.
 
 His research interests include deep learning, time series analysis, and large language models (LLM).

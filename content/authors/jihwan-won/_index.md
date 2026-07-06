@@ -10,7 +10,7 @@ last_name: Won
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph. D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Engineering (Current)
+    - course: Ph. D. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Mechanical Engineering
@@ -54,10 +54,10 @@ list_order: 3
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Students
+  - Ph. D. Students
 ---
 
-Jihwan Won received his BS degree in mechanical engineering from Dankook University, South Korea. He is currently pursuing the PhD degree in computer engineering at Kwangwoon University, Seoul, South Korea.
+Jihwan Won received his BS degree in mechanical engineering from Dankook University, South Korea. He is currently pursuing the Ph. D. degree in computer engineering at Kwangwoon University, Seoul, South Korea.
 
 His research interests include machine learning and deep learning algorithms, with a focus on human action recognition, graph neural networks, and multimodal learning.
 

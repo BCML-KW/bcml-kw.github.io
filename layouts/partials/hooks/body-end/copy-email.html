@@ -1,0 +1,71 @@
+<style>
+.copy-email-wrap { position: relative; }
+.copy-email-wrap .copy-email-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-4px);
+  white-space: nowrap;
+  background: #1a1a1f;
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  z-index: 10;
+}
+.copy-email-wrap .copy-email-tooltip.is-visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-8px);
+}
+</style>
+<script>
+(function () {
+  function showTooltip(link, text) {
+    var wrap = link.closest('.copy-email-wrap');
+    if (!wrap) return;
+    var tip = wrap.querySelector('.copy-email-tooltip');
+    if (!tip) {
+      tip = document.createElement('span');
+      tip.className = 'copy-email-tooltip';
+      wrap.appendChild(tip);
+    }
+    tip.textContent = text;
+    tip.classList.add('is-visible');
+    clearTimeout(tip._hideTimer);
+    tip._hideTimer = setTimeout(function () {
+      tip.classList.remove('is-visible');
+    }, 1500);
+  }
+
+  function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text);
+    }
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); } catch (e) {}
+    document.body.removeChild(ta);
+    return Promise.resolve();
+  }
+
+  document.addEventListener('click', function (e) {
+    var link = e.target.closest('.js-copy-email');
+    if (!link) return;
+    e.preventDefault();
+    var email = link.getAttribute('data-email');
+    copyText(email).then(function () {
+      showTooltip(link, 'Copied!');
+    }).catch(function () {
+      showTooltip(link, email);
+    });
+  });
+})();
+</script>

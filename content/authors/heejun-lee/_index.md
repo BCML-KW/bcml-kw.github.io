@@ -3,7 +3,7 @@ title: Heejun Lee
 first_name: Heejun
 last_name: Lee
 superuser: false
-role: PhD Student, University of Groningen
+role: Ph. D. Student, University of Groningen
 organizations:
 - name: University of Groningen (RUG), Netherlands
   url: https://www.rug.nl/
@@ -16,10 +16,10 @@ interests:
 - Attention Classification
 education:
   courses:
-  - course: PhD (Current)
+  - course: Ph. D. (Current)
     institution: University of Groningen, Netherlands
     year: null
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Computer Engineering
@@ -33,11 +33,11 @@ email: lhjun20@gmail.com
 highlight_name: true
 list_order: 3
 user_groups:
-- MS
+- M.S.
 ---
-Heejun Lee is currently a PhD student at the University of Groningen (Rijksuniversiteit Groningen, RUG), Netherlands. Previously, he was a researcher at LG.
+Heejun Lee is currently a Ph. D. student at the University of Groningen (Rijksuniversiteit Groningen, RUG), Netherlands. Previously, he was a researcher at LG.
 
-He received a BS and MS degree in computer engineering from Kwangwoon University in Seoul, South Korea. His research interests include biomedical signal processing and wearable IT.
+He received a BS and M.S. degree in computer engineering from Kwangwoon University in Seoul, South Korea. His research interests include biomedical signal processing and wearable IT.
 
 ## Publications
 

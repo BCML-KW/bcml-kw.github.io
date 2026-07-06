@@ -31,7 +31,10 @@ education:
       year: 
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:csd9969@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

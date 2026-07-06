@@ -17,7 +17,7 @@ interests:
 - Deep Learning
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Psychology
@@ -31,7 +31,7 @@ email: youjungseo0317@gmail.com
 highlight_name: true
 list_order: 11
 user_groups:
-- MS
+- M.S.
 ---
 Youjung Seo is currently a researcher at KLA. She received her BS degree in psychology from Chung-Ang University, South Korea.
 

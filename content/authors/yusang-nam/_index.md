@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Electrical Engineering
@@ -52,10 +52,10 @@ list_order: 19
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Yusang Nam received his BS degree in Electrical Engineering from Kwangwoon University in Seoul, South Korea and his MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Yusang Nam received his BS degree in Electrical Engineering from Kwangwoon University in Seoul, South Korea and his M.S. degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include computer vision and reinforcement learning, with a focus on remote photoplethymography-based heart rate estimation.
 

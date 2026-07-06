@@ -17,10 +17,10 @@ interests:
 - Machine Learning
 education:
   courses:
-  - course: PhD in Computer Engineering
+  - course: Ph. D. in Computer Engineering
     institution: Kwangwoon University, South Korea
     year: null
-  - course: MS
+  - course: M.S.
     institution: Telkom University, Indonesia
     year: null
   - course: BS
@@ -40,11 +40,11 @@ email: unangsunarya2040@gmail.com
 highlight_name: true
 list_order: 1
 user_groups:
-- PhD
+- Ph. D.
 ---
-Unang Sunarya is currently a researcher at Telkom University, Indonesia. He received his PhD degree in Computer Engineering Department at Kwangwoon University, South Korea.
+Unang Sunarya is currently a researcher at Telkom University, Indonesia. He received his Ph. D. degree in Computer Engineering Department at Kwangwoon University, South Korea.
 
-He received Diploma degree from Bandung State Polytechnic (POLBAN), BS and MS degree from Telkom University, Indonesia. His research interests include signal processing and electronic engineering.
+He received Diploma degree from Bandung State Polytechnic (POLBAN), BS and M.S. degree from Telkom University, Indonesia. His research interests include signal processing and electronic engineering.
 
 ## Publications
 

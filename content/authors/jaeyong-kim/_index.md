@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: MS Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering (Current)
+    - course: M.S. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: Computer Engineering (Undergraduate)
@@ -51,9 +51,9 @@ list_order: 4
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - M.S. Students
 ---
 
-Jaeyong Kim is currently pursuing the MS degree in computer engineering at Kwangwoon University in Seoul, South Korea. He completed his undergraduate education in computer engineering at Kwangwoon University.
+Jaeyong Kim is currently pursuing the M.S. degree in computer engineering at Kwangwoon University in Seoul, South Korea. He completed his undergraduate education in computer engineering at Kwangwoon University.
 
 His research interests include computer vision, large language models (LLM), and time series analysis, focusing on deep learning applications.

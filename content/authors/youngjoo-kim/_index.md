@@ -17,10 +17,10 @@ interests:
 - Machine Learning
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph. D. in Computer Science
     institution: University of Groningen, Netherlands
     year: null
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: 2017
   - course: BS in Computer Engineering
@@ -37,11 +37,11 @@ email: lyoungjookiml@gmail.com
 highlight_name: true
 list_order: 2
 user_groups:
-- MS
+- M.S.
 ---
-Youngjoo Kim is currently employed at ASML's headquarters in the Netherlands. Previously, she was a PhD student in the Scientific Visualization and Computer Graphics (SVCG) group, within the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands.
+Youngjoo Kim is currently employed at ASML's headquarters in the Netherlands. Previously, she was a Ph. D. student in the Scientific Visualization and Computer Graphics (SVCG) group, within the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands.
 
-She received her BS and MS degree in computer engineering from Kwangwoon University, Seoul, Republic of Korea, in 2015 and 2017, respectively. Her research interests include visual analytics in big data and blind signal processing with applications in astronomy and biomedicine.
+She received her BS and M.S. degree in computer engineering from Kwangwoon University, Seoul, Republic of Korea, in 2015 and 2017, respectively. Her research interests include visual analytics in big data and blind signal processing with applications in astronomy and biomedicine.
 
 ## Publications
 

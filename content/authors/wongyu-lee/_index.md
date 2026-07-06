@@ -17,7 +17,7 @@ interests:
 - Arrhythmia Detection
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Mathematics, Minor in Computer Science and Physics
@@ -31,7 +31,7 @@ email: leew1729@gmail.com
 highlight_name: true
 list_order: 8
 user_groups:
-- MS
+- M.S.
 ---
 Wongyu Lee is currently a researcher at FOUNT. He received his BS degree in Mathematics from University of Minnesota-Twin Cities in the U.S. with minor in Computer Science and Physics.
 

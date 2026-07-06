@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Software Engineering
@@ -52,7 +52,7 @@ list_order: 15
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
 Saehim Kwon is currently a researcher at EMMA. He received his BS degree in Software Engineering from Gangneung-Wonju National University in Wonju, South Korea.

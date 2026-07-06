@@ -14,7 +14,7 @@ interests:
 - Signal Analysis
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph. D. in Computer Science
     institution: University of Groningen, Netherlands
     year: null
   - course: MEng in Computer Engineering
@@ -34,11 +34,11 @@ email: jwryu1128@gmail.com
 highlight_name: true
 list_order: 1
 user_groups:
-- MS
+- M.S.
 ---
-Jiwoo Ryu completed his PhD at the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands, and is now an Embedded Software Engineer at Fugro Innovation & Technology B.V.
+Jiwoo Ryu completed his Ph. D. at the Johann Bernoulli Institute for Mathematics and Computer Science (JBI) of University of Groningen (RUG), Netherlands, and is now an Embedded Software Engineer at Fugro Innovation & Technology B.V.
 
-He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea, in 2011 and 2015, respectively. His research interests include image processing and biomedical signal processing.
+He received his B.Eng. and M.S. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea, in 2011 and 2015, respectively. His research interests include image processing and biomedical signal processing.
 
 ## Publications
 

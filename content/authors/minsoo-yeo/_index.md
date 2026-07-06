@@ -16,7 +16,7 @@ interests:
 - Machine Learning
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Biomedical Engineering
@@ -33,7 +33,7 @@ email: minsooyeo119112@gmail.com
 highlight_name: true
 list_order: 6
 user_groups:
-- MS
+- M.S.
 ---
 Minsoo Yeo is currently a researcher at TaeWoong Medical Digital Healthcare Division. He received a BS degree in biomedical engineering from Kwangwoon University.
 

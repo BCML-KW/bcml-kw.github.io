@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Industrial Information System Engineering
@@ -56,10 +56,10 @@ list_order: 18
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Jiseok Yang is currently a researcher at i-SENS. He received his BS degree in Industrial Information System Engineering from Jeonbuk University in Jeonju, South Korea and his MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Jiseok Yang is currently a researcher at i-SENS. He received his BS degree in Industrial Information System Engineering from Jeonbuk University in Jeonju, South Korea and his M.S. degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include machine learning, deep learning, graph neural networks (GNN), and data mining, with a focus on price prediction using advanced ML techniques.
 

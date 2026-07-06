@@ -18,7 +18,7 @@ interests:
 - Medical Image Segmentation
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Software Engineering
@@ -35,7 +35,7 @@ email: 9200heesang@gmail.com
 highlight_name: true
 list_order: 7
 user_groups:
-- MS
+- M.S.
 ---
 Heesang Eom is currently a researcher at EMMA Healthcare. He received a BS degree in software engineering from Korea Polytechnic University in Gyeonggi, South Korea.
 

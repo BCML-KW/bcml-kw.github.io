@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 2025
     - course: BS in Computer Engineering
@@ -52,10 +52,10 @@ list_order: 21
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Yuntae Park received his BS and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Yuntae Park received his BS and M.S. degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include machine learning algorithms, deep learning, and reinforcement learning, with a focus on spiking neural network-based control systems.
 

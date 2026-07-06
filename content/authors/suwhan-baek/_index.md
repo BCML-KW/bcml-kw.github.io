@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -57,10 +57,10 @@ list_order: 13
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Suwhan Baek is currently a researcher at Posco Holdings. He received his B.Eng. and M.Eng. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
+Suwhan Baek is currently a researcher at Posco Holdings. He received his B.Eng. and M.S. degree in computer engineering from Kwangwoon University in Seoul, Republic of Korea.
 
 His research interests include Medical AI and Auto ML. He is also attracted by reinforcement learning, generative models, and Spiking Neural Networks (SNN).
 

@@ -18,7 +18,7 @@ interests:
 - Biomedical Engineering
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Robotics Engineering
@@ -35,7 +35,7 @@ email: hyunsoo940324@gmail.com
 highlight_name: true
 list_order: 12
 user_groups:
-- MS
+- M.S.
 ---
 Hyunsoo Yu is currently a researcher at LG Innotek. He received his BS degree in Robotics Engineering from Kwangwoon University in Seoul, South Korea.
 

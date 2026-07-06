@@ -10,7 +10,7 @@ last_name: Lee
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Ph. D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Engineering (Current)
+    - course: Ph. D. in Computer Engineering (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -56,10 +56,10 @@ list_order: 2
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Students
+  - Ph. D. Students
 ---
 
-Junghwan Lee received the B.S. degree in Computer Engineering at Kwangwoon University, Seoul, Republic of Korea. He is currently pursuing the PhD degree in computer engineering at Kwangwoon University, Seoul, South Korea. 
+Junghwan Lee received the B.S. degree in Computer Engineering at Kwangwoon University, Seoul, Republic of Korea. He is currently pursuing the Ph. D. degree in computer engineering at Kwangwoon University, Seoul, South Korea. 
 
 His research interests include machine learning and deep learning algorithms, with a focus on remote photoplethysmography, biomedical signal processing, and quaternion-based neural networks.
 

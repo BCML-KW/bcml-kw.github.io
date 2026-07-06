@@ -17,7 +17,7 @@ interests:
 - ECG-based Authentication
 education:
   courses:
-  - course: MS in Computer Engineering
+  - course: M.S. in Computer Engineering
     institution: Kwangwoon University
     year: null
   - course: BS in Computer Engineering
@@ -31,7 +31,7 @@ email: kjoohyu@gmail.com
 highlight_name: true
 list_order: 10
 user_groups:
-- MS
+- M.S.
 ---
 Juhyeong Kim is currently a researcher at WOORI BANK. Previously, he was a researcher at KETI (Korea Electronics Technology Institute) from August 2021 to June 2022.
 

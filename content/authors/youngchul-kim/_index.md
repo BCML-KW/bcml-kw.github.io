@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 2019
     - course: BS in Computer Engineering
@@ -54,7 +54,7 @@ user_groups:
   - Research
 ---
 
-Youngchul Kim is currently the CEO of PAS (www.pas07.com). He received his BS and MS degree in computer engineering from Kwangwoon University in Seoul, South Korea, completing his MS in 2019.
+Youngchul Kim is currently the CEO of PAS (www.pas07.com). He received his BS and M.S. degree in computer engineering from Kwangwoon University in Seoul, South Korea, completing his M.S. in 2019.
 
 His research interests include machine learning, drowsiness detection, and wearable technology.
 

@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -55,10 +55,10 @@ list_order: 17
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Geunbo Yang (양근보) is currently a researcher at KG Steel. He received his BS and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Geunbo Yang (양근보) is currently a researcher at KG Steel. He received his BS and M.S. degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include machine learning algorithms and spiking neural networks (SNN), with a focus on energy-efficient bio-signal processing.
 

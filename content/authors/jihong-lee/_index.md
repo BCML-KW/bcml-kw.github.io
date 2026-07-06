@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 2025
     - course: BS in Computer Engineering
@@ -56,10 +56,10 @@ list_order: 20
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Jihong Lee received her BS and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Jihong Lee received her BS and M.S. degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 Her research interests include biomedical signal processing, reinforcement learning, and deep learning algorithms, with a focus on blood pressure estimation and medical image analysis.
 

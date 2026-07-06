@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 2026
     - course: BS in Electronics & Communications Engineering
@@ -56,10 +56,10 @@ list_order: 22
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Dongwook Kwon received his BS degree in Electronics & Communications Engineering and MS degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Dongwook Kwon received his BS degree in Electronics & Communications Engineering and M.S. degree in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include deep learning, anomaly detection algorithms, and computer vision, with a focus on medical device security and industrial cyber-physical systems.
 

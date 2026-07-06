@@ -1,0 +1,34 @@
+<ul class="network-icon" aria-hidden="true">
+  {{ range .Params.social }}
+    {{ $pack := or .icon_pack "fas" }}
+    {{ $pack_prefix := $pack }}
+    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+      {{ $pack_prefix = "fa" }}
+    {{ end }}
+    {{ $link := .link }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = .link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+
+    {{/* Clicking the email icon copies the address to the clipboard instead of
+         opening a mail client. Handled globally by hooks/body-end/copy-email.html. */}}
+    {{ if and (eq .icon "envelope") (eq $scheme "mailto") }}
+      {{ $email := strings.TrimPrefix "mailto:" .link }}
+      <li class="copy-email-wrap">
+        <a href="{{ $link | safeURL }}" class="js-copy-email" data-email="{{ $email }}">
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        </a>
+      </li>
+    {{ else }}
+      <li>
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        </a>
+      </li>
+    {{ end }}
+  {{end}}
+</ul>

@@ -10,7 +10,7 @@ last_name: Kim
 superuser: false
 
 # Role/position
-role: MS Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering Student (Current)
+    - course: M.S. in Computer Engineering Student (Current)
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -51,9 +51,9 @@ list_order: 5
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Students
+  - M.S. Students
 ---
 
-Hyeonjung Kim is currently pursuing the MS degree in computer engineering at Kwangwoon University in Seoul, South Korea. He received his undergraduate education in computer engineering from Kwangwoon University.
+Hyeonjung Kim is currently pursuing the M.S. degree in computer engineering at Kwangwoon University in Seoul, South Korea. He received his undergraduate education in computer engineering from Kwangwoon University.
 
 His research interests include anomaly detection and natural language processing, with a focus on developing machine learning and deep learning solutions.

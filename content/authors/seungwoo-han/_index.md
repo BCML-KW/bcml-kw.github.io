@@ -3,7 +3,7 @@ title: Seungwoo Han
 first_name: Seungwoo
 last_name: Han
 superuser: false
-role: PhD Student, Tokyo University of Agriculture and Technology
+role: Ph. D. Student, Tokyo University of Agriculture and Technology
 organizations:
 - name: Tokyo University of Agriculture and Technology (東京農工大学), Japan
   url: https://www.tuat.ac.jp/
@@ -17,10 +17,10 @@ interests:
 - Machine Learning
 education:
   courses:
-  - course: PhD (Current)
+  - course: Ph. D. (Current)
     institution: Tokyo University of Agriculture and Technology, Japan
     year: null
-  - course: MS in Software Engineering
+  - course: M.S. in Software Engineering
     institution: Kwangwoon University
     year: 2021
   - course: BS in Cr Mechatronics
@@ -37,9 +37,9 @@ email: seungwoohan0108@gmail.com
 highlight_name: true
 list_order: 9
 user_groups:
-- MS
+- M.S.
 ---
-Seungwoo Han is currently a PhD student at Tokyo University of Agriculture and Technology (東京農工大学), Japan. He received his MSc degree in software engineering from Kwangwoon University in Seoul, South Korea.
+Seungwoo Han is currently a Ph. D. student at Tokyo University of Agriculture and Technology (東京農工大学), Japan. He received his MSc degree in software engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include graph signal processing and representation learning.
 

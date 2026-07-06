@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: MS in Computer Engineering
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 2026
     - course: BS in Computer Engineering
@@ -57,10 +57,10 @@ list_order: 23
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS
+  - M.S.
 ---
 
-Hanwoong Ryu received his BS and MS degrees in Computer Engineering from Kwangwoon University in Seoul, South Korea.
+Hanwoong Ryu received his BS and M.S. degrees in Computer Engineering from Kwangwoon University in Seoul, South Korea.
 
 His research interests include Large Language Models (LLM), deep learning, computer vision, and time series analysis. He was a summer trainee at the Electronics and Telecommunications Research Institute (ETRI) from July to August 2024.
 
