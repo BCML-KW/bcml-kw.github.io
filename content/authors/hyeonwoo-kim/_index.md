@@ -54,3 +54,8 @@ user_groups:
 ---
 
 Hyeonwoo Kim is currently pursuing his M.S. degree in the Department of Computer Engineering at Kwangwoon University, Seoul, South Korea. His research interests include Computer Vision, Deep Learning, and AI for Healthcare. Recently, he has been focusing on Human Activity Recognition (HAR) systems that prioritize privacy protection. He is also conducting research on improving model performance in data-sparse environments through data augmentation and utilizing synthetic data generated from simulations to address real-world data limitations.
+
+## Awards
+
+- **Encouragement Award(장려상)** - "Confidence-Aware SPACE: 효율적인 스파이킹 신경망을 위한 선택적 테스트 시점 적응"  
+  대한전자공학회 2026 인공지능논문학부생경진대회, Jun 2026
