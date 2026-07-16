@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ljihong0526@kw.ac.kr'
+    link: 'mailto:ljihong0526@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=ko&user=N1LIEVkAAAAJ
