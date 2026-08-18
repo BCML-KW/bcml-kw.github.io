@@ -7,8 +7,12 @@ date: '2024-06-17'
 publishDate: '2024-06-17'
 publication_types:
   - patent
-publication: "한국 특허 10-2021-0188940"
-summary: "한국 특허 10-2021-0188940 (2024.06.17)"
+application_number: "10-2021-0188940"
+application_date: '2021-12-27'
+registration_number: "10-2676918"
+registration_date: '2024-06-17'
+publication: "한국 특허 출원 10-2021-0188940 (2021.12.27) / 등록 10-2676918 (2024.06.17)"
+summary: "한국 특허 출원 10-2021-0188940 (2021.12.27) / 등록 10-2676918 (2024.06.17)"
 abstract: ''
 tags: []
 featured: false

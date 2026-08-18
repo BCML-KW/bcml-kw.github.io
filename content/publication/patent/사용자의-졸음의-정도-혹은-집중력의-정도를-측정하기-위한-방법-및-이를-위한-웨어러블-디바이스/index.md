@@ -7,12 +7,16 @@ authors:
   - "이희준"
   - "김영철"
   - "전태욱"
-date: '2019-07-01'
-publishDate: '2019-07-01'
+date: '2019-10-23'
+publishDate: '2019-10-23'
 publication_types:
   - patent
-publication: "한국 특허 10-2017-0058645"
-summary: "한국 특허 10-2017-0058645 (2019.07)"
+application_number: "10-2017-0058645"
+application_date: '2017-05-11'
+registration_number: "10-2038151"
+registration_date: '2019-10-23'
+publication: "한국 특허 출원 10-2017-0058645 (2017.05.11) / 등록 10-2038151 (2019.10.23)"
+summary: "한국 특허 출원 10-2017-0058645 (2017.05.11) / 등록 10-2038151 (2019.10.23)"
 abstract: ''
 tags: []
 featured: false

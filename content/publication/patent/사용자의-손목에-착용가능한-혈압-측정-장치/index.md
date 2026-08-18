@@ -10,8 +10,12 @@ date: '2022-05-02'
 publishDate: '2022-05-02'
 publication_types:
   - patent
-publication: "한국 특허 10-2020-0160459"
-summary: "한국 특허 10-2020-0160459 (2022.05.02)"
+application_number: "10-2020-0160459"
+application_date: '2020-11-25'
+registration_number: "10-2394615"
+registration_date: '2022-05-02'
+publication: "한국 특허 출원 10-2020-0160459 (2020.11.25) / 등록 10-2394615 (2022.05.02)"
+summary: "한국 특허 출원 10-2020-0160459 (2020.11.25) / 등록 10-2394615 (2022.05.02)"
 abstract: ''
 tags: []
 featured: false

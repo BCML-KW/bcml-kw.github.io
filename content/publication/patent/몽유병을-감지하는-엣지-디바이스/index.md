@@ -8,8 +8,12 @@ date: '2025-06-02'
 publishDate: '2025-06-02'
 publication_types:
   - patent
-publication: "한국 특허 10-2022-0164099"
-summary: "한국 특허 10-2022-0164099 (2025.06.02)"
+application_number: "10-2022-0164099"
+application_date: '2022-11-30'
+registration_number: "10-2817306"
+registration_date: '2025-06-02'
+publication: "한국 특허 출원 10-2022-0164099 (2022.11.30) / 등록 10-2817306 (2025.06.02)"
+summary: "한국 특허 출원 10-2022-0164099 (2022.11.30) / 등록 10-2817306 (2025.06.02)"
 abstract: ''
 tags: []
 featured: false

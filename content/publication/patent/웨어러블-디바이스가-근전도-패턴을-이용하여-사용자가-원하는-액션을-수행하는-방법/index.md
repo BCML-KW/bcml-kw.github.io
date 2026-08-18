@@ -4,12 +4,16 @@ authors:
   - "박철수"
   - "이희준"
   - "석우준"
-date: '2020-08-25'
-publishDate: '2020-08-25'
+date: '2020-09-18'
+publishDate: '2020-09-18'
 publication_types:
   - patent
-publication: "한국 특허 10-2018-0075853"
-summary: "한국 특허 10-2018-0075853 (2020.8.25)"
+application_number: "10-2018-0075853"
+application_date: '2018-06-29'
+registration_number: "10-2159637"
+registration_date: '2020-09-18'
+publication: "한국 특허 출원 10-2018-0075853 (2018.06.29) / 등록 10-2159637 (2020.09.18)"
+summary: "한국 특허 출원 10-2018-0075853 (2018.06.29) / 등록 10-2159637 (2020.09.18)"
 abstract: ''
 tags: []
 featured: false

@@ -7,8 +7,12 @@ date: '2023-05-18'
 publishDate: '2023-05-18'
 publication_types:
   - patent
-publication: "한국 특허 10-2020-0161286"
-summary: "한국 특허 10-2020-0161286 (2023.05.18)"
+application_number: "10-2020-0161286"
+application_date: '2020-11-26'
+registration_number: "10-2535635"
+registration_date: '2023-05-18'
+publication: "한국 특허 출원 10-2020-0161286 (2020.11.26) / 등록 10-2535635 (2023.05.18)"
+summary: "한국 특허 출원 10-2020-0161286 (2020.11.26) / 등록 10-2535635 (2023.05.18)"
 abstract: ''
 tags: []
 featured: false

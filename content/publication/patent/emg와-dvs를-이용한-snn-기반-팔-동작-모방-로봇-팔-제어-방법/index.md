@@ -10,8 +10,12 @@ date: '2025-10-01'
 publishDate: '2025-10-01'
 publication_types:
   - patent
-publication: "한국 특허 10-2023-0142845"
-summary: "한국 특허 10-2023-0142845 (2025.10.01)"
+application_number: "10-2023-0142845"
+application_date: '2023-10-24'
+registration_number: "10-2870000"
+registration_date: '2025-10-01'
+publication: "한국 특허 출원 10-2023-0142845 (2023.10.24) / 등록 10-2870000 (2025.10.01)"
+summary: "한국 특허 출원 10-2023-0142845 (2023.10.24) / 등록 10-2870000 (2025.10.01)"
 abstract: ''
 tags: []
 featured: false
