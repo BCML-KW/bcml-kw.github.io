@@ -26,5 +26,7 @@ categories:
 
 - [chapter1(2025).zip](lecture-slides/chapter1%282025%29.zip)
 - [chapter2(2025).zip](lecture-slides/chapter2%282025%29.zip)
+- [chapter3.zip](lecture-slides/chapter3.zip)
+- [chapter4.zip](lecture-slides/chapter4.zip)
 - [chapter5.zip](lecture-slides/chapter5.zip)
 - [chapter6.zip](lecture-slides/chapter6.zip)
