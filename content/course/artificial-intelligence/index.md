@@ -24,7 +24,7 @@ categories:
 
 ## Lecture Slides
 
-- [Chapter 1 Intro.zip](lecture-slides/Chapter-1-Intro%282022%29.zip)
+- [Chapter 1 Intro.zip](lecture-slides/Chapter-1-Intro.zip)
 - [Ch2 Principal Component Analysis.zip](lecture-slides/Ch2-Principal-Component-Analysis%282022%29.zip)
 - [Ch3 Neural Networks.zip](lecture-slides/Ch3-Neural-Networks%282022%29.zip)
 - [Ch4 1 Introduction to Time Series Analysis.zip](lecture-slides/Ch4-1-Introduction-to-Time-Series-Analysis%282022%29.zip)
