@@ -36,3 +36,4 @@ categories:
 - [Reinforcement Learning part III IV.zip](lecture-slides/Reinforcement-Learning_part-III_IV%282022%29.zip)
 - [Reinforcement Learning Slides.zip](lecture-slides/Reinforcement-Learning-Slides%282022%29.zip)
 - [Hidden Markov Models.zip](lecture-slides/Hidden-Markov-Models%282023%29.zip)
+- [chapter3.zip](lecture-slides/chapter3.zip)
