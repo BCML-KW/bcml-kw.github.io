@@ -1602,6 +1602,20 @@ canvas#neuralNetwork {
     padding: 0.6rem 1.4rem;
   }
 
+  .btn.course-upload-btn {
+    background-image: none;
+    background: #ffffff;
+    color: #1a1a1f;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+
+    &:hover,
+    &:focus {
+      background: #eef0f4;
+      color: #1a1a1f;
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.3);
+    }
+  }
+
   @media (max-width: 576px) {
     justify-content: stretch;
 

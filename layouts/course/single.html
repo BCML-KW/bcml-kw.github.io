@@ -8,7 +8,7 @@
 
     {{ with site.Params.bcml_lecture_upload_url }}
     <div class="course-upload-cta">
-      <a class="btn btn-primary" href="{{ . }}?course={{ path.Base $.File.Dir }}" target="_blank" rel="noopener">
+      <a class="btn course-upload-btn" href="{{ . }}?course={{ path.Base $.File.Dir }}" target="_blank" rel="noopener">
         <i class="fas fa-upload"></i> 강의자료 업로드
       </a>
     </div>
