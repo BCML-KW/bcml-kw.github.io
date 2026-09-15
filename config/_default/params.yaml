@@ -119,3 +119,7 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Internal lecture-slide upload tool (lab-server hosted, see course/single.html).
+# Update this whenever the Cloudflare Tunnel URL changes.
+bcml_lecture_upload_url: 'https://earl-vermont-lobby-altered.trycloudflare.com'

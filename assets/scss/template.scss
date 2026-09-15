@@ -1591,6 +1591,27 @@ canvas#neuralNetwork {
   margin-bottom: 1rem;
 }
 
+// "강의자료 업로드" button on course pages
+.course-upload-cta {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 1.5rem;
+
+  .btn {
+    font-size: 0.85rem;
+    padding: 0.6rem 1.4rem;
+  }
+
+  @media (max-width: 576px) {
+    justify-content: stretch;
+
+    .btn {
+      width: 100%;
+      text-align: center;
+    }
+  }
+}
+
 // Fix metadata color in project lists and other views
 .article-metadata,
 .stream-meta {

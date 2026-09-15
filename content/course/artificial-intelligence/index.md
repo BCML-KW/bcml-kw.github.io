@@ -24,7 +24,7 @@ categories:
 
 ## Lecture Slides
 
-- [Chapter 1 Intro.zip](lecture-slides/Chapter-1-%28Intro%29.zip)
+- [Chapter 1 Intro.zip](lecture-slides/Chapter%201%20%28Intro%29.zip)
 - [Ch2 Principal Component Analysis.zip](lecture-slides/Ch2-Principal-Component-Analysis%282022%29.zip)
 - [Ch3 Neural Networks.zip](lecture-slides/Ch3-Neural-Networks%282022%29.zip)
 - [Ch4 1 Introduction to Time Series Analysis.zip](lecture-slides/Ch4-1-Introduction-to-Time-Series-Analysis%282022%29.zip)
@@ -36,4 +36,3 @@ categories:
 - [Reinforcement Learning part III IV.zip](lecture-slides/Reinforcement-Learning_part-III_IV%282022%29.zip)
 - [Reinforcement Learning Slides.zip](lecture-slides/Reinforcement-Learning-Slides%282022%29.zip)
 - [Hidden Markov Models.zip](lecture-slides/Hidden-Markov-Models%282023%29.zip)
-- [chapter3.zip](lecture-slides/chapter3.zip)
