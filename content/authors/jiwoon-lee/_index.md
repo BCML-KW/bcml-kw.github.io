@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: M.S. in Computer Engineering (Current)
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Computer Engineering
@@ -60,7 +60,7 @@ list_order: 1
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - M.S. Students
+  - M.S.
 ---
 
 Jiwoon Lee received his B.S. degree and is currently pursuing an M.S. degree in Computer Engineering at Kwangwoon University, Seoul, South Korea.

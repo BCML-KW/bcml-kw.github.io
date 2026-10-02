@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: M.S. in Computer Engineering (Current)
+    - course: M.S. in Computer Engineering
       institution: Kwangwoon University
       year: 
     - course: BS in Electrical Engineering
@@ -52,7 +52,7 @@ list_order: 2
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - M.S. Students
+  - M.S.
 ---
 
 Minji Kim received her BS degree in Electrical Engineering from Kwangwoon University in Seoul, South Korea. She is currently pursuing the M.S. degree in computer engineering at Kwangwoon University.
