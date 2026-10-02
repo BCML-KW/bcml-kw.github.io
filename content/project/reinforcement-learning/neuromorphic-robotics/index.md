@@ -6,7 +6,8 @@ date: 2024-01-15
 share: false
 authors:
   - jiwoon-lee
-  - yuntae-park
+  - hyeonjung-kim
+  - sangdong-choi
 
 tags:
   - Spiking Neural Networks

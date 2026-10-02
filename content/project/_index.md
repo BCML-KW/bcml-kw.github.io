@@ -19,13 +19,23 @@ The BCML Lab has covered a wide span of AI-driven healthcare and neuromorphic co
 {{< /research_area_highlight >}}
 
 {{< research_area_highlight section="project/reinforcement-learning" title="Reinforcement Learning" >}}
-<p>Data-efficient policy learning for assistive robots and neuromorphic agents, spanning curriculum design, safe control, and hardware-in-the-loop validation.</p>
+<p>Reward-driven agents that learn which biosignal features and decisions matter most, from ECG-based authentication to EMG-driven device control.</p>
 <ul>
-	<li>Reward-modulated STDP and neuromorphic control</li>
-	<li>Safe policy search for manipulators and BCIs</li>
-	<li>Simulation-to-real workflows for embedded systems</li>
+	<li>RL-based feature selection over ECG and EMG descriptors</li>
+	<li>Reward shaping and curriculum design for sample-efficient learning</li>
+	<li>Decision-making policies for biometric and assistive applications</li>
 </ul>
 <p><a href='{{< relref "/project/reinforcement-learning/" >}}' class="btn btn-outline-primary btn-sm">Explore projects</a></p>
+{{< /research_area_highlight >}}
+
+{{< research_area_highlight section="project/physical-ai" title="Physical AI & Sim-to-Real" >}}
+<p>AI systems that perceive and act in the physical world, using physics-based simulation to bridge the gap to real environments.</p>
+<ul>
+	<li>Physics-based simulation and synthetic data generation</li>
+	<li>Sim-to-real gap analysis</li>
+	<li>Embodied control for robotic manipulators on embedded and neuromorphic hardware</li>
+</ul>
+<p><a href='{{< relref "/project/physical-ai/" >}}' class="btn btn-outline-primary btn-sm">Explore projects</a></p>
 {{< /research_area_highlight >}}
 
 {{< research_area_highlight section="project/spiking-neural-networks" title="Spiking Neural Networks" >}}
