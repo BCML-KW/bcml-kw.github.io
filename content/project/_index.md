@@ -18,16 +18,6 @@ The BCML Lab has covered a wide span of AI-driven healthcare and neuromorphic co
 <p><a href='{{< relref "/project/machine-learning/" >}}' class="btn btn-outline-primary btn-sm">Explore projects</a></p>
 {{< /research_area_highlight >}}
 
-{{< research_area_highlight section="project/reinforcement-learning" title="Reinforcement Learning" >}}
-<p>Reward-driven agents that learn which biosignal features and decisions matter most, from ECG-based authentication to EMG-driven device control.</p>
-<ul>
-	<li>RL-based feature selection over ECG and EMG descriptors</li>
-	<li>Reward shaping and curriculum design for sample-efficient learning</li>
-	<li>Decision-making policies for biometric and assistive applications</li>
-</ul>
-<p><a href='{{< relref "/project/reinforcement-learning/" >}}' class="btn btn-outline-primary btn-sm">Explore projects</a></p>
-{{< /research_area_highlight >}}
-
 {{< research_area_highlight section="project/physical-ai" title="Physical AI & Sim-to-Real" >}}
 <p>AI systems that perceive and act in the physical world, using physics-based simulation to bridge the gap to real environments.</p>
 <ul>
@@ -36,6 +26,16 @@ The BCML Lab has covered a wide span of AI-driven healthcare and neuromorphic co
 	<li>Embodied control for robotic manipulators on embedded and neuromorphic hardware</li>
 </ul>
 <p><a href='{{< relref "/project/physical-ai/" >}}' class="btn btn-outline-primary btn-sm">Explore projects</a></p>
+{{< /research_area_highlight >}}
+
+{{< research_area_highlight section="project/reinforcement-learning" title="Reinforcement Learning" >}}
+<p>Reward-driven agents that learn which biosignal features and decisions matter most, from ECG-based authentication to EMG-driven device control.</p>
+<ul>
+	<li>RL-based feature selection over ECG and EMG descriptors</li>
+	<li>Reward shaping and curriculum design for sample-efficient learning</li>
+	<li>Decision-making policies for biometric and assistive applications</li>
+</ul>
+<p><a href='{{< relref "/project/reinforcement-learning/" >}}' class="btn btn-outline-primary btn-sm">Explore projects</a></p>
 {{< /research_area_highlight >}}
 
 {{< research_area_highlight section="project/spiking-neural-networks" title="Spiking Neural Networks" >}}
