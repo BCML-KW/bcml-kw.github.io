@@ -10,27 +10,28 @@ last_name: Lee
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: Ph.D. Student, University of Illinois Urbana-Champaign
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Computer Engineering, Kwangwoon University
-    url: 'https://www.kw.ac.kr'
+  - name: Department of Nuclear, Plasma & Radiological Engineering, University of Illinois Urbana-Champaign
+    url: 'https://npre.illinois.edu'
 
 # Short bio (displayed in user profile at end of posts)
-bio: His research interests include computational neuroscience, signal processing and brain-computer interfaces.
+bio: Jiwoon Lee is a Ph.D. student in Nuclear Engineering at the University of Illinois Urbana-Champaign. His research interests include neuromorphic computing, scientific computing, and computational neuroscience.
 
 interests:
+  - Neuromorphic Computing
+  - Scientific Computing
   - Computational Neuroscience
-  - Signal Processing
-  - Brain-Computer Interfaces
-  - Spiking Neural Networks
 
 education:
   courses:
+    - course: Ph.D. in Nuclear Engineering
+      institution: University of Illinois Urbana-Champaign
     - course: M.S. in Computer Engineering
       institution: Kwangwoon University
-      year: 
+      year: 2026
     - course: BS in Computer Engineering
       institution: Kwangwoon University
       year: 2024
@@ -45,10 +46,10 @@ social:
     link: https://scholar.google.com/citations?user=L8N4pFoAAAAJ
   - icon: github
     icon_pack: fab
-    link: 'https://github.com/metr0jw'
+    link: 'https://github.com/jiwoonl'
   - icon: linkedin
     icon_pack: fab
-    link: 'https://www.linkedin.com/in/metr0jw/'
+    link: 'https://www.linkedin.com/in/jiwoonl'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -63,9 +64,9 @@ user_groups:
   - M.S.
 ---
 
-Jiwoon Lee received his B.S. degree and is currently pursuing an M.S. degree in Computer Engineering at Kwangwoon University, Seoul, South Korea.
+Jiwoon Lee is a Ph.D. student in Nuclear Engineering with the Department of Nuclear, Plasma & Radiological Engineering at the University of Illinois Urbana-Champaign. He received his B.S. and M.S. degrees in Computer Engineering from Kwangwoon University, Seoul, South Korea.
 
-His research interests include neuromorphic computing, brain-computer interfaces, scientific computing and computational neuroscience. In recognition of his academic contributions, he was honored with the Best Paper Award (Bronze) at the 2022 IEEE ICCE-Asia. Lee’s work focuses on applying advanced computational methods to understand neural processes and develop innovative brain-computer interaction technologies.
+His research interests include neuromorphic computing, scientific computing, and computational neuroscience. He received the Best Paper Award (Bronze) at the 2022 IEEE International Conference on Consumer Electronics–Asia (ICCE-Asia).
 
 ## Publications
 
@@ -94,6 +95,8 @@ His research interests include neuromorphic computing, brain-computer interfaces
   Jiseok Yang, Hanwoong Ryu, Jiwoon Lee, Jihong Lee, Cheolsoo Park, *Journal of Broadcast Engineering* 29, no. 1, Feb 2024
 
 ## Honors and Awards
+- **National Research Fellowship for Graduate Students**, "Development of Low-power Neuromorphic Generative
+Models via Discrete Spike-based Flow Matching", National Research Foundation of Korea (NRF), {2025 – 2026}
 
 - **Merit-based Scholarship for AI Research** - AI Seoul Tech Graduate School Scholarship
   Seoul Scholarship Foundation & Seoul Metropolitan Government, Nov 2025
@@ -107,7 +110,7 @@ His research interests include neuromorphic computing, brain-computer interfaces
 - **Merit-based Scholarship for Software Competence Excellence**
   Kwangwoon University, \{2019, 2022, 2023\}
 
-- **Best Paper Award (IEEE, IEIE)** - Restoration of Time-Series Medical Data with Diffusion Model
+- **Best Paper Award (Bronze), IEEE ICE-Asia 2022** - Restoration of Time-Series Medical Data with Diffusion Model
   IEEE ICCE-Asia, Oct 2022
 
 - **Excellence Award (Minister of Defense Award)** - Real-Time Matchmaking System Development
