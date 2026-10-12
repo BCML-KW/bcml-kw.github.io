@@ -18,12 +18,9 @@ view: 2
 
 Spiking Neural Networks (SNNs) communicate through 1-bit spikes, mirroring the event-driven nature of biological neurons. This spike-based computation compresses models, reduces energy consumption, and stays close to neuroscience insights, making SNNs ideal for edge devices and neuromorphic chips.
 
-### What We Explore
+### Focus Topics
 
 - Bio-plausible neuron and synapse models rooted in computational neuroscience
 - Conversion and training techniques that maintain accuracy while leveraging sparse spike events
 - Interfaces between SNNs and neuromorphic sensors (event cameras, tactile skins, bio-signal front-ends)
-
-### Lab Focus
-
-Our lab analyzes biosignals such as ECG via SNNs and refines network topologies using prior neuroscience studies. The ultimate goal is to build neuromorphic systems that learn, adapt, and explain their decisions without heavy compute.
+- ECG and other biosignal analytics via SNNs, with network topologies refined from neuroscience priors for low-compute, explainable decisions
