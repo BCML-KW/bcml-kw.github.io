@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.kw.ac.kr'
 
 # Short bio (displayed in user profile at end of posts)
-bio: M.S. student at BCML Lab.
+bio: His research interests include spiking neural networks (SNNs), deep learning, and AI for healthcare.
 
 interests:
   - Computer Vision 
@@ -53,7 +53,7 @@ user_groups:
   - M.S. Students
 ---
 
-Hyeonwoo Kim is currently pursuing his M.S. degree in the Department of Computer Engineering at Kwangwoon University, Seoul, South Korea. His research interests include Computer Vision, Deep Learning, and AI for Healthcare. Recently, he has been focusing on Human Activity Recognition (HAR) systems that prioritize privacy protection. He is also conducting research on improving model performance in data-sparse environments through data augmentation and utilizing synthetic data generated from simulations to address real-world data limitations.
+Hyeonwoo Kim is currently pursuing his M.S. degree in the Department of Computer Engineering at Kwangwoon University, Seoul, South Korea. His research interests include spiking neural networks (SNNs), deep learning, and AI for healthcare. His work on SNNs focuses on energy-efficient training and inference methods, aiming to reduce computational cost for deployment on resource-constrained hardware. In healthcare, he develops privacy-preserving bed-fall prediction systems for clinical environments, using physics-based simulation to generate synthetic training data and investigating how to bridge the gap between simulated and real-world data.
 
 ## Awards
 
