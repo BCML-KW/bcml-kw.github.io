@@ -10,9 +10,8 @@
 {{ $show_organizations := $block.design.show_organizations | default false }}
 {{ $show_role := $block.design.show_role | default true }}
 
-{{/* These three groups are shown as "Alumni" sub-sections (Ph. D. / M.S. / Research)
-     rather than as three separate top-level headings. */}}
-{{ $alumniSubgroups := slice "Ph. D." "M.S." "Research" }}
+{{/* Combine the existing alumni profile groups into one list. */}}
+{{ $alumniGroups := slice "Alumni" "Ph. D." "M.S." "Research" }}
 
 <div class="row justify-content-center people-widget">
   {{ with $block.content.title }}
@@ -28,8 +27,12 @@
     </div>
   {{ end }}
 
-  {{ range $i, $g := $block.content.user_groups }}
-    {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $g) }}
+  {{ range $g := $block.content.user_groups }}
+    {{ $groups := slice $g }}
+    {{ if eq $g "Alumni" }}
+      {{ $groups = $alumniGroups }}
+    {{ end }}
+    {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" $groups }}
 
     {{/* Sort */}}
     {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
@@ -38,22 +41,9 @@
     {{ $sort_order := cond $sort_ascending "asc" "desc" }}
     {{ $query = sort $query $sort_by $sort_order }}
 
-    {{ $isAlumniSub := in $alumniSubgroups $g }}
-    {{ $prevIsAlumniSub := false }}
-    {{ if gt $i 0 }}
-      {{ $prevIsAlumniSub = in $alumniSubgroups (index $block.content.user_groups (sub $i 1)) }}
-    {{ end }}
-
     {{if $query | and (gt (len $block.content.user_groups) 1) }}
       <div class="col-md-12">
-        {{ if $isAlumniSub }}
-          {{ if not $prevIsAlumniSub }}
-          <h2 class="mb-2 mt-4">Alumni</h2>
-          {{ end }}
-          <h3 class="mb-3 people-alumni-subheading">{{ $g | markdownify }}</h3>
-        {{ else }}
-          <h2 class="mb-4">{{ $g | markdownify }}</h2>
-        {{ end }}
+        <h2 class="mb-4">{{ $g | markdownify }}</h2>
       </div>
     {{end}}
 
