@@ -10,11 +10,11 @@ last_name: Ryu
 superuser: false
 
 # Role/position
-role: Researcher, Suresoft Technologies Inc.
+role: Researcher, Suresofttech Inc.
 
 # Organizations/Affiliations
 organizations:
-  - name: Suresoft Technologies Inc.
+  - name: Suresofttech Inc.
     url: 'https://www.suresofttech.com'
 
 # Short bio (displayed in user profile at end of posts)
