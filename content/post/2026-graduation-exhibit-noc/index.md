@@ -6,7 +6,7 @@ badge_category: contest
 badge_rank: mid
 summary: "\"NOC\"팀, 2026학년도 컴퓨터정보공학부 졸업작품전시회 우수상 및 2026 제1회 산학연계 AI 프로젝트 우수상, 2026.11"
 image:
-  filename: 졸작-2026-3.webp
+  filename: 졸작-2026-2.webp
   focal_point: Smart
 profile: false
 show_related: false
@@ -19,9 +19,3 @@ share: false
 - 산학연계 부문: 2026 제1회 산학연계 AI 프로젝트 **우수상** (참여기업: 엠마헬스케어)
 - 작품: "AI 생성 영상 및 CCTV 조작 영상 탐지와 근거 설명을 제공하는 신뢰성 분석 모델"
 - 지도교수: 박철수 교수님
-
-![NOC팀 수상 기념 사진](졸작-2026-3.webp)
-
-![산학연계 AI 프로젝트 우수상 시상](졸작-2026-1.webp)
-
-![졸업작품전시회 우수상 시상](졸작-2026-2.webp)

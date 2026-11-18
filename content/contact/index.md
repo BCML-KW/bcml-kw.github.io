@@ -15,7 +15,7 @@ sections:
         아래 이메일로 **자기소개서, 이력서, 성적증명서**를 첨부하여 지원해주세요.
 
         - 박철수 교수: **parkcheolsoo@kw.ac.kr**
-        - 연구실 박사과정: **ysin0414@gmail.com**
+        - 강영신 박사: **ysin0414@gmail.com**
         
         ### 자격 조건
         
